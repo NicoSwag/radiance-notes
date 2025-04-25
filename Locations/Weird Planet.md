@@ -1,0 +1,11 @@
+A more "out there" planet. Maybe kinda like Ooo from adventure time.
+
+Sublocations:
+Funky City
+Mushroom Forest
+Fizzy Lake
+Garden of Shapes
+Inverted Mountains
+Gravity falls (not called like that, but yknow what I mean)
+Goo ocean
+Misty Forest

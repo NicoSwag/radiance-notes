@@ -15,4 +15,4 @@
 - Necrozma
 - Cosmog
 - Ultra Beasts
-- Deoxys
+- [[Deoxys]]

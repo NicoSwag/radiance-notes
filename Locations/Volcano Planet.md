@@ -1,14 +1,15 @@
-Just kind of a chill place to be in. Despite, yknow, the cold.
+Just kind of a chill place to be in. Despite, yknow, the heat. Maybe kinda morrowindy as well.
 
 Sublocations:
 
 Volcano town (Naples coded)
+Mines
 Volcanic Grottoes
-Volcanic Caldera
 Steam Caverns
-Hot and cold lake
+Volcanic Lake
 Hot Springs
 Steam City
 Ashlands
 Sulfuric River
 Primordial Cave
+Berry Greenhouse
