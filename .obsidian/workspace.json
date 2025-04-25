@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b9c93d4cf3856fbe",
+        "id": "7605b63dffa1c4c5",
         "type": "tabs",
         "children": [
           {
-            "id": "d17aff830a3f3795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Start here.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Start here"
-            }
-          }
-        ]
-      },
-      {
-        "id": "42f9fafd3ea1a702",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "37d3ac73b20671fb",
+            "id": "a792553d4cd77218",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -166,13 +146,23 @@
               "icon": "lucide-list",
               "title": "Outline of Unnamed Professor"
             }
+          },
+          {
+            "id": "22930663bbee6da7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +171,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d17aff830a3f3795",
+  "active": "a792553d4cd77218",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2025-04-25.md",
+    "Start here.md",
     "Characters/Characters.md",
     "Characters/DJ Girl.md",
     "Characters/Metaverse Bro.md",
@@ -193,7 +187,6 @@
     "Locations/Cyber Planet.md",
     "Characters/Acolyte of the Swamp.md",
     "Characters/Ruler of the Sands.md",
-    "Start here.md",
     "Characters/Jackass of the Sands.md",
     "Mechanics/Ranger-Style Field Moves.md",
     "Locations/Swamp Planet.md",
@@ -215,9 +208,6 @@
     "Mechanics/Overworld Encounters.md",
     "Story/Main Story Pitch.md",
     "Mechanics/Main Features.md",
-    "Untitled.canvas",
-    "Mechanics/Materials.md",
-    "Mechanics/Space Travel.md",
     "Pokemon Radiance"
   ]
 }
