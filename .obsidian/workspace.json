@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "aa61f7e13a263e9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9c93d4cf3856fbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d17aff830a3f3795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Start here.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Start here"
+            }
+          }
+        ]
+      },
+      {
+        "id": "42f9fafd3ea1a702",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37d3ac73b20671fb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81ec50b856f33695",
+    "type": "split",
+    "children": [
+      {
+        "id": "e091f25cab8fcfcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "485e58f8bec74dfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e0d2f0e1429ffdeb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "S",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dca0f32f4c774f5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cba2dfea6d35c416",
+    "type": "split",
+    "children": [
+      {
+        "id": "52e36c6b2b533b58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b54c4a0e7c040f2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pokemon Radiance/Characters/Unnamed Professor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Unnamed Professor"
+            }
+          },
+          {
+            "id": "5f97567c58019ad3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pokemon Radiance/Characters/Unnamed Professor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Unnamed Professor"
+            }
+          },
+          {
+            "id": "f4c40f864b492e5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aa295243db41f8e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pokemon Radiance/Characters/Unnamed Professor.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Unnamed Professor"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d17aff830a3f3795",
+  "lastOpenFiles": [
+    "Characters/Characters.md",
+    "Characters/DJ Girl.md",
+    "Characters/Metaverse Bro.md",
+    "Characters/Cultist of the Swamp.md",
+    "Locations/Cyber Planet.md",
+    "Characters/Acolyte of the Swamp.md",
+    "Characters/Ruler of the Sands.md",
+    "Start here.md",
+    "Characters/Jackass of the Sands.md",
+    "Mechanics/Ranger-Style Field Moves.md",
+    "Locations/Swamp Planet.md",
+    "Characters/Unnamed Sidekick.md",
+    "Characters/Unnamed Professor.md",
+    "Locations",
+    "Locations/Sand Capital.md",
+    "Locations/Sand Planet.md",
+    "Characters/Ari.md",
+    "Pokemon Radiance/Bosses.md",
+    "Characters/Leo.md",
+    "Characters/Hermit Guy.md",
+    "Mechanics",
+    "Story",
+    "Mechanics/Battle Engine Modifications.md",
+    "Characters",
+    "Untitled",
+    "Mechanics/Crafting System.md",
+    "Mechanics/Overworld Encounters.md",
+    "Story/Main Story Pitch.md",
+    "Mechanics/Main Features.md",
+    "Untitled.canvas",
+    "Mechanics/Materials.md",
+    "Mechanics/Space Travel.md",
+    "Pokemon Radiance"
+  ]
+}

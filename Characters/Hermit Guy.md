@@ -1,0 +1,1 @@
+Lives in a secluded place on Earth. Is attempting to study the radiance. Is 30, but looks like an old man. Is friends with [[Unnamed Professor]]. Ice Type User.

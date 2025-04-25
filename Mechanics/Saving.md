@@ -1,0 +1,1 @@
+Saving will only be possible in specific areas. These will include cities, as well as safe areas in the wilderness. These will be shown by a save icon in the top right, either permanent or temporarily appearing with the area name. The game will prompt the players to autosave before important events or in other special circumstances.

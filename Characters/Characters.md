@@ -1,0 +1,16 @@
+- [[Ari]] - The protagonist
+- [[Leo]] - The rival
+- [[Unnamed Sidekick]]
+- [[Unnamed Professor]]
+- [[Hermit Guy]]
+- [[Ruler of the Sands]]
+- [[Jackass of the Sands]]
+- [[Cultist of the Swamp]]
+- [[Acolyte of the Swamp]]
+- [[Metaverse Bro]]
+- [[DJ Girl]]
+- Unnamed Space Station researcher
+- Necrozma
+- Cosmog
+- Ultra Beasts
+- Deoxys
