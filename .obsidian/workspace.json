@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Story Elements.md",
+                "file": "Story/Story Acts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Story Elements"
+              "title": "Story Acts"
             }
           }
         ]
@@ -181,9 +181,17 @@
   },
   "active": "a792553d4cd77218",
   "lastOpenFiles": [
+    "Locations/Gas Giant Space Station.md",
+    "Story/Story Acts.md",
+    "Locations/Volcano Planet.md",
+    "Locations/Weird Planet.md",
+    "Locations/Moon.md",
+    "Locations/Earth.md",
+    "Mechanics/Battle Engine Modifications.md",
+    "Locations/Sand Capital.md",
+    "Story/Story Elements.md",
     "Start here.md",
     "Story/Main Story Pitch.md",
-    "Story/Story Elements.md",
     "Characters/Characters.md",
     "Characters/Cultist of the Swamp.md",
     "Characters/Metaverse Bro.md",
@@ -200,15 +208,7 @@
     "Untitled.canvas",
     "Locations/Cyber Planet.md",
     "Characters/Acolyte of the Swamp.md",
-    "Mechanics/Ranger-Style Field Moves.md",
-    "Locations/Swamp Planet.md",
-    "Characters/Unnamed Sidekick.md",
-    "Characters/Unnamed Professor.md",
     "Locations",
-    "Locations/Sand Capital.md",
-    "Locations/Sand Planet.md",
-    "Characters/Ari.md",
-    "Pokemon Radiance/Bosses.md",
     "Mechanics",
     "Story",
     "Characters",
