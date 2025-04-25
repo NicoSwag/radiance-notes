@@ -10,6 +10,8 @@
 - [[Metaverse Bro]]
 - [[DJ Girl]]
 - Unnamed Space Station researcher
+- Unnamed Main guy of Weird Planet
+- Unnamed Secondary guy of Weird Planet
 - Necrozma
 - Cosmog
 - Ultra Beasts
