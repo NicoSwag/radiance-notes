@@ -1,0 +1,5 @@
+Follower of the cult led by [[Shalim]]. Probably also a weird twink. Originally wasn't into it and joined the cult to destroy it from inside. Shalim is aware of this, but lets it be, as he believes that eventually Blaise will understand. And in fact, as Blaise discovers the truth about the Radiance and about the universe, he starts to understand their point of view, and begins to fully believe in them. 
+
+In the Law Route, he and Shalim sternly oppose you. Ultimately, he decides to give himself to the Radiance and turns into an Ultra Beast: Nihilego. In the Chaos route, he oversees the transformation of humanity and Pokemon into the next step of evolution.
+
+Poison type user,

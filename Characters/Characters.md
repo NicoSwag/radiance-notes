@@ -3,10 +3,10 @@
 - [[Unnamed Sidekick]]
 - [[Unnamed Professor]]
 - [[Hermit Guy]]
-- [[Ruler of the Sands]]
-- [[Jackass of the Sands]]
-- [[Cultist of the Swamp]]
-- [[Acolyte of the Swamp]]
+- [[Zorya]] - Empress of the Dawn
+- [[Nikola]] - Heir Apparent
+- [[Shalim]] - Minister of the Dusk
+- [[Blaise]] - Undercover Acolyte
 - [[Metaverse Bro]]
 - [[DJ Girl]]
 - Unnamed Space Station researcher

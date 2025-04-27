@@ -1,7 +1,7 @@
 - [[Earth]]
 - [[Moon]]
 - [[Volcano Planet]]
-- [[Sand Planet]]
+- [[Djet]]
 - [[Cyber Planet]]
 - [[Gas Giant Space Station]]
 - [[Weird Planet]]
