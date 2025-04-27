@@ -1,0 +1,3 @@
+ARES (Anti-Radiance Emitter Shield) is a technology invented through a collaboration between all planets in the Solar System as a last-ditch effort to halt the Radiance. It works by emitting a particular frequency that counteracts the radiance. However, it is also extremely difficult and costly to implement. Material from all planets is needed, and with manned space travel becoming impossible and cooperation breaking down, it is extremely difficult to manufacture more.
+
+Durignt 

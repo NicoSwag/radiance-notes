@@ -10,8 +10,7 @@
 - [[Seth]] - Corrupt Mayor
 - [[Pan]] - Revolutionary DJ
 - [[Dr. Jena]] - Space Station Researcher
-- Unnamed Main guy of Weird Planet
-- Unnamed Secondary guy of Weird Planet
+- [[Purna]] - The Sweet Queen
 - Necrozma
 - Cosmog
 - Ultra Beasts

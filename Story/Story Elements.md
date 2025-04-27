@@ -1,3 +1,3 @@
 - The Radiance
-- ARES
+- [[ARES]]
 - Cosmog Pieces
