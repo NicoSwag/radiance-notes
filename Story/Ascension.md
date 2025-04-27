@@ -1,0 +1,1 @@
+When a being is exposed to the [[Radiance]] for a long time, they start deteriorating. Eventually, they disappear completely, in a process known as Ascension, where their lifeforce gets completely absorbed by Necrozma. Under some circumstances, instead of vanishing, beings can transform into one of the [[Ultra Beasts]].

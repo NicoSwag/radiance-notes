@@ -8,9 +8,9 @@
 - [[Shalim]] - Minister of the Dusk
 - [[Blaise]] - Undercover Acolyte
 - [[Seth]] - Corrupt Mayor
-- [[Pan]] - Revolutionary DJ
+- [[Ran]] - Revolutionary DJ
 - [[Dr. Jena]] - Space Station Researcher
-- [[Purna]] - The Sweet Queen
+- [[Anna]] - The Sweet Queen
 - [[Necrozma]]
 - [[Cosmog]]
 - [[Ultra Beasts]]

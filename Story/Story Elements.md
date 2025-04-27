@@ -1,4 +1,5 @@
 - The [[Radiance]]
 - [[ARES]]
-- Cosmog Pieces
+- [[Cosmog Piece]]
 - [[Cargo Ships]]
+- [[Story Paths]]

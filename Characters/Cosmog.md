@@ -1,3 +1,7 @@
 It is said that, when [[Necrozma]] emerged from the place where light cannot escape, the will of the universe itself manifested to stop the aberration from ending all life. The fabric of the cosmos condensed into a being that had the very power of the stars. 
 
 As Necrozma sensed life in the [[Solar System]], and started heading there with the goal of consuming it, the starry being used all its power to open a portal to the same destination, so that it could help its inhabitants to fight the catastrophe. Unfortunately, the massive amount of strength required to open the portal was too much for the being. Its body split into many pieces, falling all throughout the Solar System. The biggest two pieces fell on [[Earth]], and forgot their original purpose. They would be later found by [[Ari]] and [[Leo]], and given the name of Cosmog.
+
+After gathering all the [[Cosmog Piece]]s, Cosmog will begin a transformation. You will be required to select one of the two [[Story Paths]], and after completing a quest Cosmog will transform in Solgaleo for the Order path, and Lunala for the Chaos path. Leo will get the opposite of yours.
+
+Solgaleo/Lunala will be instrumental to breaching the [[Moon]] and facing Necrozma. In the final fight, Leo's legendary will fuse with Necrozma in a desperate attempt to defeat you.
