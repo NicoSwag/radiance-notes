@@ -1,4 +1,4 @@
-Just kind of a chill place to be in. Despite, yknow, the heat. Maybe kinda morrowindy as well.
+Just kind of a chill place to be in. Despite, yknow, the heat. Maybe kinda morrowindy as well. [[Agni]] and [[Professor Thale]] live here.
 
 Sublocations:
 

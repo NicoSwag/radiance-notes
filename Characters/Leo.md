@@ -4,6 +4,6 @@ Like Ari, Leo was born in Mossdeep city, but stayed there while her sibling trav
 
 Leo is as smart as Ari, if not more, cheerful, caring, dependable, just a fun person to be around. She also cares very deeply for her sibling, and the feeling is mutual. However, she is also very insecure about her abilities, and does not speak up much. She usually goes along with everyone else's plans even if she disagrees.
 
-At some point in the game, Ari will make a decision. Leo will pick the opposite path, and the two will end up fighting.
+At some point in the game, Ari will pick one of two [[Story Paths]]. Leo will pick the opposite path, and the two will end up fighting.
 
 Leo is immune to the [[Radiance]].

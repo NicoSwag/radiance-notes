@@ -1,4 +1,4 @@
-Swampy planet, where the Cult resides. Used as a prison colony, not a fantastic place to live.
+Swampy planet, where the Cult resides. Used as a prison colony, not a fantastic place to live. The religious leader here is [[Shalim]], and [[Blaise]] is an acolyte who is secretly trying to dismantle the religion from inside.
 
 Sublocations:
 

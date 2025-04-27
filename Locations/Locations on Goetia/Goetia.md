@@ -1,4 +1,4 @@
-A more "out there" planet. Maybe kinda like Ooo from adventure time.
+A more "out there" planet. Maybe kinda like Ooo from adventure time. Ruled by [[Anna]].
 
 Sublocations:
 Funky City

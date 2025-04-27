@@ -1,0 +1,1 @@
+Capital City of Deneb. It is meant to be a very very distant revival of Ninbasa City, Unova, but the name got corrupted overtime.
