@@ -11,7 +11,7 @@
 - [[Pan]] - Revolutionary DJ
 - [[Dr. Jena]] - Space Station Researcher
 - [[Purna]] - The Sweet Queen
-- Necrozma
-- Cosmog
-- Ultra Beasts
+- [[Necrozma]]
+- [[Cosmog]]
+- [[Ultra Beasts]]
 - [[Deoxys]]

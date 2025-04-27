@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Necrozma.md",
+                "file": "Characters/Deoxys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Necrozma"
+              "title": "Deoxys"
             }
           }
         ]
@@ -181,19 +181,20 @@
   },
   "active": "a792553d4cd77218",
   "lastOpenFiles": [
-    "Characters/Ultra Beasts.md",
+    "Story/Radiance.md",
+    "Characters/Deoxys.md",
+    "Characters/Characters.md",
+    "Characters/Cosmog.md",
     "Characters/Necrozma.md",
+    "Characters/Ultra Beasts.md",
     "Story/Ascension.md",
     "Story/Cosmog Piece.md",
-    "Characters/Cosmog.md",
     "Locations/Solar System.md",
     "Story/Cargo Ships.md",
     "Story/Story Elements.md",
-    "Story/Radiance.md",
     "Story/Main Story Pitch.md",
     "Story/ARES.md",
     "Characters/Zorya.md",
-    "Characters/Characters.md",
     "Characters/Purna.md",
     "Characters/Seth.md",
     "Characters/Dr. Jena.md",
@@ -214,7 +215,6 @@
     "Locations/Locations on Crepitus",
     "Locations/Locations on Crepitus/Crepitus Space Station.md",
     "Locations/Locations on Tiber/Tiber.md",
-    "Characters/Deoxys.md",
     "darmanitan-standard.png",
     "Untitled.canvas",
     "Locations",

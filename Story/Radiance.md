@@ -1,0 +1,9 @@
+The Radiance is a form of radiation emitted by [[Necrozma]]. It harvests life energy from all living creatures, and sends it back to its origin.
+
+Radiance exposure manifests progressively in living beings. First, their sanity will start being affected, first as confusion or forgetfulness and then progressing into full-blown insanity. The affected being will become extremely aggressive, but they will also get progressively weaker. At maximum exposure, the being will appear to crumble and vanish. This is known as Ascension, as seemingly no physical remains are left behind.
+
+Pokemon inherently possess more life energy than humans, and are therefore able to withstand the Radiance for longer periods of time. Having less developed brains, however, they are quicker to fall to madness and violence. Eventually, they still succumb to the Ascension, but the time it takes is usually not significantly shorter than their natural lifespans.
+
+Humans, on the other end, are more resistant to the madness, but since they're relatively frail beings it does not take long for their life energy to be consumed.
+
+[[Ari]] and [[Leo]] are the only living beings in the Solar System to be completely immune to the effects of the Radiance due to a random, seemingly insignificant recessive mutation in one of their genes. Were they to have children, the mutation would not be passed down. While this may appear as a convenient coincidence, the ending of the game will reveal that their arrival in the future is none other than a bootstrap paradox, as Ari, after dealing with the Radiance however they choose, will utilize the power of its chosen Legendary Pokemon to open a portal in the past. 
