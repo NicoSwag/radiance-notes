@@ -9,7 +9,7 @@
 - [[Blaise]] - Undercover Acolyte
 - [[Seth]] - Corrupt Mayor
 - [[Pan]] - Revolutionary DJ
-- [[Dr. Jengu]] - Space Station Researcher
+- [[Dr. Jena]] - Space Station Researcher
 - Unnamed Main guy of Weird Planet
 - Unnamed Secondary guy of Weird Planet
 - Necrozma

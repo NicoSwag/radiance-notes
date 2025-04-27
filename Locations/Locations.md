@@ -4,4 +4,4 @@
 - [[Djet]]
 - [[Deneb]]
 - [[Crepitus Space Station]]
-- [[Weird Planet]]
+- [[Goetia]]
