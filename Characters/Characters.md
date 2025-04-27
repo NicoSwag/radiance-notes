@@ -1,14 +1,14 @@
 - [[Ari]] - The protagonist
 - [[Leo]] - The rival
-- [[Unnamed Sidekick]]
-- [[Unnamed Professor]]
-- [[Hermit Guy]]
+- [[Agni]] - The sidekick
+- [[Professor Thale]]
+- [[Fang]] - The hermit
 - [[Zorya]] - Empress of the Dawn
 - [[Nikola]] - Heir Apparent
 - [[Shalim]] - Minister of the Dusk
 - [[Blaise]] - Undercover Acolyte
-- [[Metaverse Bro]]
-- [[DJ Girl]]
+- [[Seth]]
+- [[Pan]]
 - Unnamed Space Station researcher
 - Unnamed Main guy of Weird Planet
 - Unnamed Secondary guy of Weird Planet

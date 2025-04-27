@@ -1,0 +1,4 @@
+Professor living on [[Tiber]]. A distant ancestor of Professor Cozmo. Kind of a weird looking babyface guy. Constantly trying to develop new inventions, and succeeding most of the time. He has a suit that is kinda immune to the Radiance but it is not very practical. He uses it to sneak out and go out in the field where he shouldn't be. He probably has some minor brain damage from the exposure, but it's ok. He's the one that gives you the Pokedex to catalogue whether there's been any changes in pokemon species due to the Radiance. Note that some species left in big arks with other parts of the population, with fate unknown. He also gives you a communication system to easily talk with people on other planets.
+ Eventually manages to perfect the suit thanks to your help, and gifts it to other people around the solar system. 
+ 
+ Steel Type user: his signature Pokemon is Durant.

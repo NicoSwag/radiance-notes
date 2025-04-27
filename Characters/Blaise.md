@@ -2,4 +2,4 @@ Follower of the cult led by [[Shalim]]. Probably also a weird twink. Originally 
 
 In the Law Route, he and Shalim sternly oppose you. Ultimately, he decides to give himself to the Radiance and turns into an Ultra Beast: Nihilego. In the Chaos route, he oversees the transformation of humanity and Pokemon into the next step of evolution.
 
-Poison type user,
+Poison type user: his signature Pokemon is Toxicroak.

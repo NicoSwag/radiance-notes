@@ -1,1 +1,0 @@
-Guy who you meet on the volcano planet. Kinda similar to Kiawe from Sun and Moon. Nice guy, tells you what's up a bit and helps you get your bearings in this new world Is friends with [[Unnamed Professor]]. Becomes your main ally as the story goes, and helps a lot with things. Fire type user.
