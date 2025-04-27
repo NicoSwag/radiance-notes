@@ -1,7 +1,8 @@
 - [[Characters]]
 - The [[Radiance]]
 - [[ARES]]
-- [[Cosmog Piece]]
+- [[Cosmog Piece]]s
 - [[Cargo Ships]]
 - [[Story Paths]]
 - [[Why Pokemon]]?
+- [[Story Acts]]

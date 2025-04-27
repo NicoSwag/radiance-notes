@@ -1,5 +1,7 @@
 - [[Battle Engine Modifications]]
 - [[New types]]
+- [[New Pokemon]]
+- [[Pokedex]] (not necessarily final)
 - [[Overworld Encounters]]
 - [[Space Travel]]
 - [[Open World]]
