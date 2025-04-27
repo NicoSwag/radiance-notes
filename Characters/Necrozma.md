@@ -1,0 +1,7 @@
+It is said that Necrozma is a being that emerged from beyond the event horizon of a black hole at the center of the galaxy. Its only aim is to consume; and the more it consumes, the more it shines bright. It is a force of nature more than a living being, although after having consumed the life force of billions it has started developing something that could be called a consciousness. And it is screaming.
+
+Necrozma, sensing the lifeforce of humanity and Pokemon alike, traveled to the [[Solar System]], crash landing on the [[Moon]], before starting to emit the [[Radiance]].
+
+At the same time as the birth of Necrozma, the original entity that would later be known as Cosmog also came to exis
+
+It is also said, however, that when Necrozma emerged from the place where light cannot escape, its negative force was counteracted by a positive one. The very fabric of the cosmos came to life, condensing into a being that had the power of the stars. As Necrozma was making its way to the Solar System, the starry being used all its power to open a portal to the same destination, so that it could warn the people that catastrophe was approaching. Unfortunately, the massive amount of strength required to open the portal was too much for the being. Its body split into many pieces, falling all throughout the Solar System. The biggest two pieces fell on [[Earth]], and forgot their original purpose. They would be later found by [[Ari]] and [[Leo]], and given the name of Cosmog.

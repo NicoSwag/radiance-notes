@@ -2,4 +2,4 @@
 - [[Main Story Pitch]]
 - [[Main Features]]
 - [[Characters]]
-- [[Locations]]
+- [[Solar System]]

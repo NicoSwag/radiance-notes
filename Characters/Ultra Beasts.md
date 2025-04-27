@@ -1,0 +1,5 @@
+Ultra Beasts are people and Pokemon transformed into grotesque being by the [[Radiance]]. Ultra Beasts are only created in certain circumstances. First off, the subject needs to have been subjected to controlled doses of Radiance: enough to start having an effect, but not enough for the being to lose their minds yet. Second, the subject needs to be in the vicinity of a[[ Cosmog Piece]], or of [[Cosmog]] itself. Finally, the subject must be experiencing extreme emotions.
+
+If, at the moment of the [[Ascension]], the subject is fulfilling all three of these conditions, instead of dissolving they will manage to hold their essence together, turning into a new lifeform: an Ultra Beast.
+
+As they are still under the influence of the Radiance, Ultra Beasts follow the will of their creator, [[Necrozma]]. However, were the Radiance to be harnessed, it might be possible for Ultra Beasts to gain some degree of independent thought, whatever that could imply.

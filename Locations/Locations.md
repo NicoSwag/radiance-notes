@@ -1,7 +1,0 @@
-- [[Earth]]
-- [[Moon]]
-- [[Tiber]]
-- [[Djet]]
-- [[Deneb]]
-- [[Crepitus Space Station]]
-- [[Goetia]]
