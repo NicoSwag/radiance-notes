@@ -1,8 +1,0 @@
-Space station orbiting around a gas giant. Very low orbit, and the atmosphere is breathable, so it's more like a open-air floating platform. It is not anchored to the planet itself, though. It is multi-level. Some people here are running experiments with the virus.
-
-Sublocation:
-
-Top level - Living quarters
-Middle level - energy and plumbing
-Bottom level - Research station and greenhouse
-Secret level - biological containment area. [[Deoxys]]' chamber.

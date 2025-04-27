@@ -1,15 +1,15 @@
 - [[Ari]] - The protagonist
 - [[Leo]] - The rival
 - [[Agni]] - The sidekick
-- [[Professor Thale]]
+- [[Professor Thale]] - The professor
 - [[Fang]] - The hermit
 - [[Zorya]] - Empress of the Dawn
 - [[Nikola]] - Heir Apparent
 - [[Shalim]] - Minister of the Dusk
 - [[Blaise]] - Undercover Acolyte
-- [[Seth]]
-- [[Pan]]
-- Unnamed Space Station researcher
+- [[Seth]] - Corrupt Mayor
+- [[Pan]] - Revolutionary DJ
+- [[Dr. Jengu]] - Space Station Researcher
 - Unnamed Main guy of Weird Planet
 - Unnamed Secondary guy of Weird Planet
 - Necrozma

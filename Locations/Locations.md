@@ -2,6 +2,6 @@
 - [[Moon]]
 - [[Tiber]]
 - [[Djet]]
-- [[Cygnus]]
-- [[Gas Giant Space Station]]
+- [[Deneb]]
+- [[Crepitus Space Station]]
 - [[Weird Planet]]
