@@ -7,3 +7,5 @@ Leo is as smart as Ari, if not more, cheerful, caring, dependable, just a fun pe
 At some point in the game, Ari will pick one of two [[Story Paths]]. Leo will pick the opposite path, and the two will end up fighting.
 
 Leo is immune to the [[Radiance]].
+
+Name origin: Leo (the sign)

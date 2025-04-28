@@ -2,3 +2,4 @@ Professor living on [[Tiber]]. A distant ancestor of Professor Cozmo. abyface gu
 Eventually manages to perfect the suit thanks to your help, and gifts it to other people around the [[Solar System]]. 
  
  Steel Type user: his signature Pokemon is Durant.
+Name origin: thale cress, a weed growing in the ISS to study plants in microgravity

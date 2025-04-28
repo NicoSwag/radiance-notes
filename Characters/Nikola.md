@@ -5,3 +5,5 @@ In the Law path[^1], her mother eventually loses her life in pursuit of the goal
 Grass type user: her signature pokemon is Maractus.
 
 [^1]: See [[Story Paths]]
+
+Name origin: from St Nicholas, associated with the deity Zorya in Slavic folklore

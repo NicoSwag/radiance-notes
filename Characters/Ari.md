@@ -11,3 +11,5 @@ Generally, Ari is a pleasant person, but they exude an aura of self-assuredness 
 At some point in the game, you will need to pick one of two[[ Story Paths]]. Leo will pick the opposite path, and you will need to fight each other.
 
 Ari is immune to the [[Radiance]].
+
+Name origin: Aries (The sign)
