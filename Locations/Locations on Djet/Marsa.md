@@ -1,0 +1,1 @@
+Name origin: Marsa Alam, a city in Africa that according to WIkipedia has overall the highest amount of sunshine year-round.

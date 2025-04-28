@@ -11,3 +11,5 @@ Spooky Bog
 Wetlands
 Celestial Observatory
 Temple of the Moon
+
+Name origin: Volos/Veles, Slavic deity associated with earth, water, and the underworld.

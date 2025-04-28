@@ -4,4 +4,6 @@ In the Law Path[^1], he sternly opposes your goal to get rid of the Radiance. In
 
 Ghost type user: his signature Pokemon is Spiritomb.
 
+Name origin: Shalim, Canaanite god of the dusk.
+
 [^1]: See [[Story Paths]]

@@ -2,4 +2,4 @@ Mayor of [[New Basa City]] on [[Deneb]], unfortunately also a Tech Bro. Kinda El
 
 Normal type user. His signature Pokemon is Porygon-Z.
 
-Seth: From Set, 
+Seth: From Set, Egyptian god of storms and disorder.

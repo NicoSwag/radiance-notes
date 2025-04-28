@@ -13,3 +13,5 @@ Oasis
 Worm's Caves
 Underground Lake
 Temple of the Sun
+
+Name origin: From Wadjet, Egyptian god associated with Ra.

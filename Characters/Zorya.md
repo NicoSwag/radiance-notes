@@ -3,4 +3,6 @@ The empress of the last standing civilization of [[Djet]]. Royal-looking lady. S
  You can choose to side with her, or against her. In the Law path[^1], she eventually sacrifices herself in the end to allow you to destroy the Radiance, and turns into Pheromosa. In the Chaos path, her daughter [[Nikola]] turns into an Ultra Beast instead, driving her to madness.
  Bug-type user: her signature Pokemon is Volcarona.
 
+Name origin: Zorya, Slavic goddess of the dawn.
+
 [^1]: See Story Path
