@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Main Features.md",
+                "file": "Mechanics/Move Info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Features"
+              "title": "Move Info"
             }
           }
         ]
@@ -181,6 +181,8 @@
   },
   "active": "a792553d4cd77218",
   "lastOpenFiles": [
+    "Mechanics/Main Features.md",
+    "Mechanics/Move Info.md",
     "Story/Main Story Pitch.md",
     "Mechanics/Ranger-Style Field Moves.md",
     "Credits.md",
@@ -205,8 +207,6 @@
     "Characters/Blaise.md",
     "Characters/Characters.md",
     "Characters/Anna.md",
-    "Characters/Agni.md",
-    "Characters/Ari.md",
     "Untitled.canvas",
     "Locations/Locations on Volos",
     "Locations/Locations on Tiber",
