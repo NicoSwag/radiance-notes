@@ -16,6 +16,7 @@ Dragon Rush -> 85 Acc., Shake Field Effect
 Dragon Tail -> Push 1 Field Effect
 Electric Terrain -> 5 PP, Energize 3 Field Effect
 Flash -> Electric Type, 100 PP, Light Field Effect
+Focus Punch -> Break 3 Field Effect
 Fury Cutter -> 20 BP, 100 Acc., 15 PP, Cut 1 Field Effect
 Knock off -> 40 BP, 5 PP, Shake Field Effect
 Leech Life -> 70 BP, 95 Acc.
@@ -23,6 +24,7 @@ Lovely Kiss -> Fairy Type
 Megahorn -> Shake Field Effect
 Misty Terrain -> 5 PP
 Mooblast -> 90 BP, 95 Acc.
+Seismic Toss -> Push 1 Field Effect
 Pain Split -> 5 PP
 Play Nice -> Fairy Type, 15 PP
 Pounce -> Climb Field Effect
