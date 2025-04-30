@@ -1,4 +1,5 @@
 
+Arm Thrust -> Push 1 Field Effect
 Aromatic Mist -> Grow Field Effect
 Bite -> 20 PP, Cut 1 Field Effect
 Breaking Swipe -> Break 2 Field Effect
@@ -10,9 +11,11 @@ Charge Beam -> Energize 1 Field Effect
 Charm -> 10 PP
 Circle Throw -> Push 2 Field Effect
 Counter -> 10 PP
+Cross Chop -> Break 3 Field Effect
 Crunch -> 10 PP, Cut 2 Field Effect
 Dazzling Gleam -> 70 BP, Light Field Effect
 Discharge -> Energize 2 Field Effect
+Double Kick -> 20 PP, Break 1 Field Effect
 Draco Meteor -> 130 BP
 Dragon Cheer -> Grow Field Effect
 Dragon Claw -> Cut 2 Field Effect
@@ -21,6 +24,7 @@ Dragon Rush -> 85 Acc., Shake Field Effect
 Dragon Tail -> Push 1 Field Effect
 Electric Terrain -> 5 PP, Energize 3 Field Effect
 Flash -> Electric Type, 100 PP, Light Field Effect
+Force Palm -> Break 2 Field Effect
 Focus Punch -> Break 3 Field Effect
 Fury Cutter -> 20 BP, 100 Acc., 15 PP, Cut 1 Field Effect
 Jump Kick -> 120 BP, Break 3 Field Effect
@@ -28,16 +32,18 @@ Karate Chop -> Break 1 Field Effect
 Knock off -> 40 BP, 5 PP, Shake Field Effect
 Leech Life -> 70 BP, 95 Acc.
 Lovely Kiss -> Fairy Type
-Mach Punch -> 
+Mach Punch -> 20 PP, Break 1 Field Effect
 Megahorn -> Shake Field Effect
 Misty Terrain -> 5 PP
 Moonblast -> 90 BP, 95 Acc.
 Reversal -> 10 PP
+Rock Smash -> Break 2 Field Effect
 Seismic Toss -> Push 1 Field Effect
 Pain Split -> 5 PP
 Play Nice -> Fairy Type, 15 PP
 Pounce -> Climb Field Effect
 Power Trip -> 5 PP
+Power-Up Punch -> 10 PP, Break 1 Field Effect
 Pursuit -> 10 PP, Climb Field Effect
 Rage Powder -> 10 PP
 Rolling Kick -> 95 Acc, Break 2 Field Effect
