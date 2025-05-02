@@ -51,7 +51,7 @@ Leech Life -> 70 BP, 95 Acc.
 Lovely Kiss -> Fairy Type
 Mach Punch -> 20 PP, Break 1 Field Effect
 Megahorn -> Shake Field Effect
-Meteor Mash -> Stellar Type, Break 2 Field Efffect
+Meteor Mash -> Stellar Type, 20% chance to increase Sp.Atk., Break 2 Field Efffect
 Misty Terrain -> 5 PP
 Moonblast -> 90 BP, 95 Acc.
 Mystic Fire -> Burn 2 Field Effect
