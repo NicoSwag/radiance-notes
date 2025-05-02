@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Move Info.md",
+                "file": "Story/Story Acts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Move Info"
+              "title": "Story Acts"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "a792553d4cd77218",
   "lastOpenFiles": [
-    "Mechanics/New types.md",
     "Mechanics/Move Info.md",
+    "Mechanics/New types.md",
     "Characters/Dr. Jena.md",
     "Characters/Deoxys.md",
     "Mechanics/Main Features.md",
