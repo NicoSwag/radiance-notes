@@ -39,6 +39,7 @@ Flamethrower -> Burn 2 Field Effect
 Force Palm -> Break 2 Field Effect
 Focus Punch -> Break 3 Field Effect
 Fury Cutter -> 20 BP, 100 Acc., 15 PP, Cut 1 Field Effect
+Gamma Burst -> Hyper beam clone, Stellar Type, Energize 3 Field Effect
 Gravity -> Stellar Type, Push 2 Field Effect
 Heat Wave -> Burn 2 Field Effect
 Incinerate -> Burn 1 Field Effect
@@ -66,6 +67,7 @@ Pursuit -> 10 PP, Climb Field Effect
 Rage Powder -> 10 PP
 Rolling Kick -> 95 Acc, Break 2 Field Effect
 Sky Uppercut -> Smack Down Effect, Break 2 Field Effect
+Spacial Rend -> 85 BP, Stellar Type, 10 PP, Push 2 Field Effect
 Throat Chop -> 10 PP
 Shock Wave -. Energize 1 Field Effect
 Signal Beam -> Energize 2 Field Effect
