@@ -73,6 +73,7 @@ Silk Trap -> 5 PP
 Spider Web -> 15 PP, Grapple Field Effect
 Strange Steam -> 80 BP, Corrode Field Effect
 String Shot -> Grapple Field Effect
+Stellar Flare -> Stellar Type, 80 BP, Hits both opponents, Reduces evasiveness, 15 PP, 90 Accuracy, Light 1 Field Effect
 Swift -> Stellar Type
 Taunt -> 5 PP
 Thief -> 40 BP, 10 PP
