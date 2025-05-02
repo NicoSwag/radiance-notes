@@ -1,6 +1,7 @@
 
 Arm Thrust -> Push 1 Field Effect
 Aromatic Mist -> Grow Field Effect
+Aura Sphere -> Stellar Type, 15 PP, Break 2 Field Effect
 Bite -> 20 PP, Cut 1 Field Effect
 Blast Burn -> Burn 3 Field Effect
 Breaking Swipe -> Break 2 Field Effect
@@ -11,6 +12,7 @@ Charge -> Energize 1 Field Effect
 Charge Beam -> Energize 1 Field Effect
 Charm -> 10 PP
 Circle Throw -> Push 2 Field Effect
+Cosmic Power -> 5 PP, Light Field Effect
 Counter -> 10 PP
 Cross Chop -> Break 3 Field Effect
 Crunch -> 10 PP, Cut 2 Field Effect
@@ -36,6 +38,7 @@ Flamethrower -> Burn 2 Field Effect
 Force Palm -> Break 2 Field Effect
 Focus Punch -> Break 3 Field Effect
 Fury Cutter -> 20 BP, 100 Acc., 15 PP, Cut 1 Field Effect
+Gravity -> Stellar Type, Push 2 Field Effect
 Heat Wave -> Burn 2 Field Effect
 Incinerate -> Burn 1 Field Effect
 Jump Kick -> 120 BP, Break 3 Field Effect
@@ -69,6 +72,7 @@ Silk Trap -> 5 PP
 Spider Web -> 15 PP, Grapple Field Effect
 Strange Steam -> 80 BP, Corrode Field Effect
 String Shot -> Grapple Field Effect
+Swift -> Stellar Type
 Taunt -> 5 PP
 Thief -> 40 BP, 10 PP
 Thunder -> 110 BP, Energize 3 Field Effect
@@ -78,9 +82,11 @@ Thunder Punch -> Break 2 Field Effect
 Thunder Shock -> Energize 1 Field Effect
 Thunder Wave -> 10 PP, Energize 1 Field Effect
 Outrage -> 10 PP, Shake Field Effect
+Vacuum Wave -> Stellar Type, Break 1 Field Effect
 Vital Throw -> Push 2 Field Effect
 Volt Tackle -> 5 PP, Energize 3 Field Effect
 Wake-up Slap -> Shake Field Effect
 Will-o-Wisp -> Light Field Effect
+Wish -> Stellar Type, Light Field Effect
 X-Scissors -> 10 PP, Cut 3 Field Effect
 Zap Cannon -> 60 Acc., Energize 3 Field Effect
