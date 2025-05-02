@@ -12,6 +12,7 @@ Charge -> Energize 1 Field Effect
 Charge Beam -> Energize 1 Field Effect
 Charm -> 10 PP
 Circle Throw -> Push 2 Field Effect
+Comet Punch -> Stellar Type, 75 BP, 20% chance to lower enemy's sp.def, 100% accuracy, Break 2 Field Effect.
 Cosmic Power -> 5 PP, Light Field Effect
 Counter -> 10 PP
 Cross Chop -> Break 3 Field Effect
