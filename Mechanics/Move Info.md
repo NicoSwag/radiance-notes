@@ -76,6 +76,7 @@ String Shot -> Grapple Field Effect
 Swift -> Stellar Type
 Taunt -> 5 PP
 Thief -> 40 BP, 10 PP
+Tractor Beam -> 70 BP, 90 Accuracy, Stellar Type, Telekinesis effect, Dig Field Effect
 Thunder -> 110 BP, Energize 3 Field Effect
 Thunderbolt ->  90 BP, 10 PP, Energize 2 Field Effect
 Thunderclap -> Energize 2 Field Effect
