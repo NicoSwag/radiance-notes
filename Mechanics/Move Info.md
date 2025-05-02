@@ -14,6 +14,7 @@ Charm -> 10 PP
 Circle Throw -> Push 2 Field Effect
 Comet Punch -> Stellar Type, 75 BP, 20% chance to lower enemy's sp.def, 100% accuracy, Break 2 Field Effect.
 Cosmic Power -> 5 PP, Light Field Effect
+Cosmic Ray -> 10 PP, 70 BP, Stellar Type, 20% confusion chance, Energize 2 Field Effect
 Counter -> 10 PP
 Cross Chop -> Break 3 Field Effect
 Crunch -> 10 PP, Cut 2 Field Effect
@@ -50,6 +51,7 @@ Leech Life -> 70 BP, 95 Acc.
 Lovely Kiss -> Fairy Type
 Mach Punch -> 20 PP, Break 1 Field Effect
 Megahorn -> Shake Field Effect
+Meteor Mash -> Stellar Type, Break 2 Field Efffect
 Misty Terrain -> 5 PP
 Moonblast -> 90 BP, 95 Acc.
 Mystic Fire -> Burn 2 Field Effect
