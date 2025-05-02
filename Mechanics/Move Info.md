@@ -2,6 +2,7 @@
 Arm Thrust -> Push 1 Field Effect
 Aromatic Mist -> Grow Field Effect
 Bite -> 20 PP, Cut 1 Field Effect
+Blast Burn -> Burn 3 Field Effect
 Breaking Swipe -> Break 2 Field Effect
 Brick Break -> Break 2 Field Effect
 Bulk Up -> 5 PP
@@ -23,10 +24,20 @@ Dragon Dance -> 5 PP
 Dragon Rush -> 85 Acc., Shake Field Effect
 Dragon Tail -> Push 1 Field Effect
 Electric Terrain -> 5 PP, Energize 3 Field Effect
+Ember -> Burn 1 Field Effect
+Eruption -> Burn 3 Field Effect
+Fire Blast -> Burn 3 Field Effect
+Fire Fang -> Cut 1 Field Effect
+Fire Punch -> Break 2 Field Effect
 Flash -> Electric Type, 100 PP, Light Field Effect
+Flame Burst -> Burn 2 Field Effect
+Flame Charge -> Climb Field Effect
+Flamethrower -> Burn 2 Field Effect
 Force Palm -> Break 2 Field Effect
 Focus Punch -> Break 3 Field Effect
 Fury Cutter -> 20 BP, 100 Acc., 15 PP, Cut 1 Field Effect
+Heat Wave -> Burn 2 Field Effect
+Incinerate -> Burn 1 Field Effect
 Jump Kick -> 120 BP, Break 3 Field Effect
 Karate Chop -> Break 1 Field Effect
 Knock off -> 40 BP, 5 PP, Shake Field Effect
@@ -36,9 +47,12 @@ Mach Punch -> 20 PP, Break 1 Field Effect
 Megahorn -> Shake Field Effect
 Misty Terrain -> 5 PP
 Moonblast -> 90 BP, 95 Acc.
+Mystic Fire -> Burn 2 Field Effect
+Overheat -> Burn 3 Field Effect
 Reversal -> 10 PP
 Rock Smash -> Break 2 Field Effect
 Seismic Toss -> Push 1 Field Effect
+Sunny Day -> Light Field Effect
 Pain Split -> 5 PP
 Play Nice -> Fairy Type, 15 PP
 Pounce -> Climb Field Effect
@@ -67,5 +81,6 @@ Outrage -> 10 PP, Shake Field Effect
 Vital Throw -> Push 2 Field Effect
 Volt Tackle -> 5 PP, Energize 3 Field Effect
 Wake-up Slap -> Shake Field Effect
+Will-o-Wisp -> Light Field Effect
 X-Scissors -> 10 PP, Cut 3 Field Effect
 Zap Cannon -> 60 Acc., Energize 3 Field Effect
