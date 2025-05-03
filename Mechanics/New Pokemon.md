@@ -5,6 +5,7 @@
 - Lunatone Shields Down
 - Astreon (Stellar Type Eevee evo)
 - Muk Stellar form
+- Spiritomb Stellar form
 - Ursaluna Stellar form
 - Sunflora Stellar Form
 - Volcarona Stellar Form
