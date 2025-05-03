@@ -81,7 +81,7 @@ Stellar Flare -> Stellar Type, 80 BP, Hits both opponents, Reduces evasiveness, 
 Swift -> Stellar Type
 Taunt -> 5 PP
 Thief -> 40 BP, 10 PP
-Tractor Beam -> 60 BP, 90 Accuracy, Stellar Type, Telekinesis effect, Dig Field Effect
+Tractor Beam -> 60 BP, 100 Accuracy, Stellar Type, Telekinesis effect, Dig Field Effect
 Throat Chop -> 10 PP
 Thunder -> 110 BP, Energize 3 Field Effect
 Thunderbolt ->  90 BP, 10 PP, Energize 2 Field Effect
