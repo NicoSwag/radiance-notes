@@ -8,6 +8,7 @@ Breaking Swipe -> Break 2 Field Effect
 Brick Break -> Break 2 Field Effect
 Bulk Up -> 5 PP
 Captivate -> Fairy Type, 10 PP
+Celestial Rain -> Triple Axel stellar type clone with 85 accuracy
 Charge -> Energize 1 Field Effect
 Charge Beam -> Energize 1 Field Effect
 Charm -> 10 PP
@@ -70,7 +71,6 @@ Rage Powder -> 10 PP
 Rolling Kick -> 95 Acc, Break 2 Field Effect
 Sky Uppercut -> Smack Down Effect, Break 2 Field Effect
 Spacial Rend -> 85 BP, Stellar Type, 10 PP, Push 2 Field Effect
-Throat Chop -> 10 PP
 Shock Wave -. Energize 1 Field Effect
 Signal Beam -> Energize 2 Field Effect
 Silk Trap -> 5 PP
@@ -81,7 +81,8 @@ Stellar Flare -> Stellar Type, 80 BP, Hits both opponents, Reduces evasiveness, 
 Swift -> Stellar Type
 Taunt -> 5 PP
 Thief -> 40 BP, 10 PP
-Tractor Beam -> 70 BP, 90 Accuracy, Stellar Type, Telekinesis effect, Dig Field Effect
+Tractor Beam -> 60 BP, 90 Accuracy, Stellar Type, Telekinesis effect, Dig Field Effect
+Throat Chop -> 10 PP
 Thunder -> 110 BP, Energize 3 Field Effect
 Thunderbolt ->  90 BP, 10 PP, Energize 2 Field Effect
 Thunderclap -> Energize 2 Field Effect
