@@ -4,6 +4,7 @@ In the Order Route[^1], he and Shalim sternly oppose you. Ultimately, he decides
 
 Poison type user: his signature Pokemon is Toxicroak.
 
+Name Origin: St. Blaise, Saint associated with the god Volos/Veles in Slavic folklore
+
 [^1]: See [[Story Paths]]
 
-Name Origin: St. Blaise, Saint associated with the god Volos/Veles in Slavic folklore

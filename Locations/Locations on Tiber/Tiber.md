@@ -4,7 +4,6 @@ Sublocations:
 
 Volcano town (Naples coded)
 Mines
-Volcanic Grottoes
 Steam Caverns
 Volcanic Lake
 Hot Springs
