@@ -5,7 +5,7 @@ The plants here would be all weird.
 Sublocations:
 
 [[Marsa]] - The Capital City
-Nomadic Encampment
+Desert Encampment
 Open Desert
 Coastal Desert
 Massive Monolith

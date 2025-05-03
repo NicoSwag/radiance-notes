@@ -4,5 +4,5 @@
 - [[Volos]] - The Planet of Swamps
 - [[Deneb]] - The Cyber Planet
 - [[Goetia]] - The Planet of Wonders
-- [[Crepitus Floating City]] - Above the Shapeless Planet
+- [[Crepitus Space Platform]] - Above the Shapeless Planet
 - [[Moon]] - The Throne of the Radiance

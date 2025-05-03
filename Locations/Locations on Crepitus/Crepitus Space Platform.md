@@ -4,7 +4,7 @@ Name origin: Crepitus, non-existing roman god of flatulence invented post-hoc by
 
 Sublocation:
 
-Top level - Living quarters
+Top level - City and living quarters
 Middle level - energy and plumbing
 Bottom level - Research area, with terrarium and aquarium.
 Secret level - biological containment area. [[Deoxys]]' chamber.
