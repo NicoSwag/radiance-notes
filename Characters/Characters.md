@@ -9,7 +9,7 @@
 - [[Blaise]] - Undercover Acolyte
 - [[Seth]] - Corrupt Mayor
 - [[Ran]] - Revolutionary DJ
-- [[Dr. Jena]] - Space Station Researcher
+- [[Dr. Jen]] - Space Station Researcher
 - [[Anna]] - The Sweet Queen
 - [[Necrozma]]
 - [[Cosmog]]

@@ -1,6 +1,6 @@
 - Serperior Stellar Form
 - Blastoise Stellar Form
-- Raboot Stellar Form
+- Cinderace Stellar Form
 - Solrock Shields Down
 - Lunatone Shields Down
 - Astreon (Stellar Type Eevee evo)
