@@ -36,22 +36,23 @@ Her name is...
 **Mysterious Voice:**
 Young human...
 The destiny that has been set out for you is fast approaching.
-But how you manifest it... Is up to you.
+But what you do with it... Is up to you.
 Your path... Your choices...
-The universe is counting on you.
+Endless possibility awaits.
 
 *Ari fades out, a black outline of Cosmon fades in.*
 
 **Ari:**
-(!!!)
-(This is new.)
-(The dream usually ends before this.)
+!!!
+This is new.
+The dream always ends before this.
 
 **Mysterious Voice:**
 Young human...
 I must now bid you farewell...
-We are looking forward to meet you...
-But then again... We have already met.
+We are looking forward to meeting you...
+But then again... 
+We have already met.
 
 *Scene switches out to Ari.*
 
@@ -66,9 +67,9 @@ Waaaaaait!
 
 **Ari:**
 Yaaawn.... 
-That was some dream I've just had.
+Well, that was some dream.
 What was it again? I can't quite remember.
-I really should keep a dream journal or something.
+I really should keep a dream journal, or something.
 ...
 Oh, crap!
 I'm late! Today, of all days!
@@ -79,13 +80,20 @@ I better get dressed and find her!
 *Brief fade to black, player is dressed and out of bed.*
 *Player goes downstairs, there's a note on the table.*
 
+**Ari:**
+A note!
+It must be from Leo.
+
 **Letter:**
 Dearest sibling,
-As my valiant efforts of getting your lazy posterior out of bed have been in vain, I have taken the liberty of heading by myself to the location of our scheduled meeting.
-As soon as this missive reaches you, prithee get your ass to the Space Center immediately!!!
+As my valiant efforts of getting your lazy posterior out of bed have been in vain, I have taken the liberty of heading to the location of our scheduled meeting.
+As soon as this missive reaches you... 
+Prithee get your ass to the Space Center immediately!!!
 -Leo
 
 **Ari:**
 Whoops...
-I should go there immediately.
-But then again, I should say goodbye to the people in the city firs
+I better go there right away.
+But then again, I should say goodbye to the neighbors first.
+I won't be back for a while, after all.
+I'm sure the professor won't mind a little delay.
