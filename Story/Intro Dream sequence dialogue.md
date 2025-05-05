@@ -31,29 +31,23 @@ That's my twin sister.
 Her name is...
 
 *Naming screen shows up.*
-*Ari comes back on the screen.*
 
 **Mysterious Voice:**
 Yes...
+Ari, and Leo...
 Two souls, set for greater things...
 The destiny that has been set out for you is fast approaching.
 But what you do with it... Is up to you.
 Your path... Your choices...
-Endless possibility awaits.
+Endless possibilities await.
 
-*Ari fades out, a black outline of Cosmon fades in.*
+*Scene switches to Cosmon*.
 
-**Ari:**
-!!!
-This is new.
-The dream always ends before this.
-
-**Mysterious Voice:**
 Young human...
 I must now bid you farewell...
 We are looking forward to meeting you...
 But then again... 
-We have already met.
+Perhaps, we have already met.
 
 *Scene switches out to Ari.*
 
