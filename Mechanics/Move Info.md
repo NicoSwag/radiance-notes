@@ -130,3 +130,16 @@ Bounce -> Teleport Field Effect
 Drill Peck -> Dig Field Effect
 Pluck -> Dig Field Effect
 Sky Drop -> Push 1 Field Effect
+Whirlwind -> Flying type, Push 1 Field Effect
+Acrobatics -> Climb Field Effect
+Air Cutter -> Cut 3 Field Effect
+Air Slash -> Cut 2 Field Effect
+Cold Spot -> 70 BP, 10 PP, 90% accuracy, 30% frostbite chance, Ghost Type, Freeze Field Effect
+Night Shade -> Phase Field Effect
+Shadow Claw -> Cut 2 Field Effect
+Hex -> 55 BP
+Shadow Punch -> Break 1 Field Effect
+Shadow Sneak -> Phase Field Effect
+Aromatherapy -> Grow Field Effect
+Cotton Spore -> 20 PP
+Grass Knot -> Grow F
