@@ -142,4 +142,23 @@ Shadow Punch -> Break 1 Field Effect
 Shadow Sneak -> Phase Field Effect
 Aromatherapy -> Grow Field Effect
 Cotton Spore -> 20 PP
-Grass Knot -> Grow F
+Grass Knot -> Grapple Field Effect
+Grassy Terrain -> 5 PP, Grow Field Effect
+Growth -> 5  PP, Grow Field Effect
+Ingrain -> Grow Field Effect
+Leech Seed -> Grow Field Effect
+Spore -> 5 PP
+Sleep Powder -> 10 PP
+Stun Spore -> 15 PP
+Synthesis -> Grow Field Effect
+Worry Seed -> Grow Field Effect
+Frenzy Plant -> Grow Field Effect
+Petal Dance - Grow Field Effect
+Leaf Blade -> 10 PP, Cut 3 Field Effect
+Petal Blizzard -> 10 PP
+Sweet Scent -> Grow Field Effect
+Razor Leaf -> Cut 1 Field Effect
+Trailblaze -> Climb Field Effect
+Drain -> Renamed from Mega Drain
+Bullet Seed -> 20 PP
+Leaf tornado -> 30% chance to cut accuracy
