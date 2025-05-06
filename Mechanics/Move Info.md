@@ -124,3 +124,9 @@ Alluring Voice -> Sound Type
 Boomburst -> 110 BP, 85 Acc, Sound Type
 Uproar -> Sound Type
 Overdrive -> TBD
+Aeroblast -> 80 Accuracy
+Fly -> Teleport Field Effect
+Bounce -> Teleport Field Effect
+Drill Peck -> Dig Field Effect
+Pluck -> Dig Field Effect
+Sky Drop -> Push 1 Field Effect
