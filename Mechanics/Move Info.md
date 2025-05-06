@@ -118,3 +118,9 @@ Round -> Sound Type
 Snore -> Sound Type
 Echoed Voice -> Sound Type
 Snarl -> Sound Type
+Chatter -> 70 BP, Sound Type, 30% Confuse Chance
+Disarming Voice -> Sound Type
+Alluring Voice -> Sound Type
+Boomburst -> 110 BP, 85 Acc, Sound Type
+Uproar -> Sound Type
+Overdrive -> TBD
