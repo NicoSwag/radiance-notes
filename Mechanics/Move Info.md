@@ -2,6 +2,7 @@
 Arm Thrust -> Push 1 Field Effect
 Aromatic Mist -> Grow Field Effect
 Aura Sphere -> Stellar Type, 15 PP, Break 2 Field Effect
+Belly Drum -> Sound Type, 5 PP
 Bite -> 20 PP, Cut 1 Field Effect
 Blast Burn -> Burn 3 Field Effect
 Breaking Swipe -> Break 2 Field Effect
@@ -42,24 +43,33 @@ Force Palm -> Break 2 Field Effect
 Focus Punch -> Break 3 Field Effect
 Fury Cutter -> 20 BP, 100 Acc., 15 PP, Cut 1 Field Effect
 Gamma Burst -> Hyper beam clone, Stellar Type, Energize 3 Field Effect
+Grass Whistle -> Sound Type, Grow Field Effect
 Gravity -> Stellar Type, Push 2 Field Effect
+Growl -> 20 PP, Sound Type
+Heal Bell -> Sound Type
 Heat Wave -> Burn 2 Field Effect
+Howl -> Sound Type, 20 PP
 Incinerate -> Burn 1 Field Effect
 Jump Kick -> 120 BP, Break 3 Field Effect
 Karate Chop -> Break 1 Field Effect
 Knock off -> 40 BP, 5 PP, Shake Field Effect
 Leech Life -> 70 BP, 95 Acc.
 Lovely Kiss -> Fairy Type
+Lucky Chant -> Sound Type
 Mach Punch -> 20 PP, Break 1 Field Effect
 Megahorn -> Shake Field Effect
+Metal Sound -> Sound Type, 20 PP
 Meteor Mash -> Stellar Type, 20% chance to increase Sp.Atk., Break 2 Field Efffect
 Misty Terrain -> 5 PP
 Moonblast -> 90 BP, 95 Acc.
 Mystic Fire -> Burn 2 Field Effect
 Overheat -> Burn 3 Field Effect
+Perish Song -> Sound Type
 Reversal -> 10 PP
 Rock Smash -> Break 2 Field Effect
+Screech -> Sound Type, 20 PP
 Seismic Toss -> Push 1 Field Effect
+Sing -> Sound Type
 Sunny Day -> Light Field Effect
 Pain Split -> 5 PP
 Play Nice -> Fairy Type, 15 PP
@@ -68,12 +78,14 @@ Power Trip -> 5 PP
 Power-Up Punch -> 10 PP, Break 1 Field Effect
 Pursuit -> 10 PP, Climb Field Effect
 Rage Powder -> 10 PP
+Roar -> Sound Type
 Rolling Kick -> 95 Acc, Break 2 Field Effect
 Sky Uppercut -> Smack Down Effect, Break 2 Field Effect
 Spacial Rend -> 85 BP, Stellar Type, 10 PP, Push 2 Field Effect
 Shock Wave -. Energize 1 Field Effect
 Signal Beam -> Energize 2 Field Effect
 Silk Trap -> 5 PP
+Sleep Talk -> Sound Type
 Spider Web -> 15 PP, Grapple Field Effect
 Strange Steam -> 80 BP, Corrode Field Effect
 String Shot -> Grapple Field Effect
@@ -98,3 +110,11 @@ Will-o-Wisp -> Light Field Effect
 Wish -> Stellar Type, Light Field Effect
 X-Scissors -> 10 PP, Cut 3 Field Effect
 Zap Cannon -> 60 Acc., Energize 3 Field Effect
+Sonic Boom -> Sound Type
+Supersonic -> Sound Type
+Eerie Noise -> Psychic Noise but Sound Type
+Hyper Voice -> 90 BP
+Round -> Sound Type
+Snore -> Sound Type
+Echoed Voice -> Sound Type
+Snarl -> Sound Type
