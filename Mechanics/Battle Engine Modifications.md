@@ -15,5 +15,6 @@ To deal with the semi open-world nature of the game, several changes have been m
 - Running away will be way harder unless you're at a significantly higher level than the wild pokemon.
 - There is NO gimmicks like megas, dynamax, nothing. Fuck you.
 - Catching a Pokemon lets you put it in your team right away.
+- Misty Terrain no longer weakens dragon, and boosts fairy moves by 1.3.
 
 [^1]: Should fainted Pokemon gain EXP? If so, they should not be revived on levelup.
