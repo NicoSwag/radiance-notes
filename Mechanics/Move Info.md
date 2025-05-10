@@ -27,7 +27,7 @@ Chatter -> 70 BP, Sound Type, 30% Confuse Chance
 Circle Throw -> Push 2 Field Effect
 Clear Smog -> Corrode Field Effect
 Coil -> 10 PP
-Cold Spot -> 70 BP, 10 PP, 90% accuracy, 30% frostbite chance, Ghost Type, Freeze Field Effect
+Cold Spot -> 70 BP, 10 PP, 90% accuracy, 20% frostbite chance, Ghost Type, Freeze Field Effect
 Comet Punch -> Stellar Type, 75 BP, 20% chance to lower enemy's sp.def, 100% accuracy, Break 2 Field Effect.
 Corrosive Gas -> Corrode Field Effect, 20 PP
 Cosmic Power -> 5 PP, Light Field Effect
@@ -181,3 +181,24 @@ Wish -> Stellar Type, Light Field Effect
 Worry Seed -> Grow Field Effect
 X-Scissors -> 10 PP, Cut 3 Field Effect
 Zap Cannon -> 60 Acc., Energize 3 Field Effect
+Shore up -> Dig Field Effect
+Earthquate -> Push 2 Field Effect
+Dig -> Dig Field Effect
+Drill Run -> Dig Field Effect
+Bone Club -> Break 2 Field Effect
+Bulldoze -> Push 2 Field Effect
+Mud Shot -> Push 1 Field Effect
+Bonemerang -> Break 1 Field Effect
+Sand Tomb -> Dig Field Effect
+Bone Rush -> Break Field Effect
+Mud Slap -> Push 1 Field Effect
+Stomping Tantrum -> Push 2 Field Effect
+Snowscape -> 5 PP, Freeze Field Effect
+Haze -> Phase Field Effect
+Mist -> Phase Field Effect
+Blizzard -> Freeze Field Effect
+Ice Beam -> Freeze Field Effect
+Ice Spinner -> Climb Field Effect
+Ice Punch -> Break 2 Field Effect
+Aurora Beam -> Freeze Field Effect
+Glaciate -> Freeze F
