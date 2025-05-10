@@ -201,4 +201,10 @@ Ice Beam -> Freeze Field Effect
 Ice Spinner -> Climb Field Effect
 Ice Punch -> Break 2 Field Effect
 Aurora Beam -> Freeze Field Effect
-Glaciate -> Freeze F
+Glaciate -> Freeze Field Effect
+Ice Fang -> Cut Field Effect
+Avalanche -> Freeze Field Effect
+Frost_Breath -> Freeze Field Effect
+Icy Wind -> Freeze Field Effect
+Ice Shard -> Freeze Field Effect
+Icicle Spear -> Freeze Field Effect
