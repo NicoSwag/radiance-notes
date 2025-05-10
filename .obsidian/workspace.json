@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Locations on Earth/Earth.md",
+                "file": "Mechanics/Move Info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Earth"
+              "title": "Move Info"
             }
           }
         ]
@@ -181,6 +181,10 @@
   },
   "active": "a792553d4cd77218",
   "lastOpenFiles": [
+    "Story/Story Elements.md",
+    "Story/Story Paths.md",
+    "Story/Why Pokemon.md",
+    "Locations/Locations on Earth/Earth.md",
     "Locations/Solar System.md",
     "Mechanics/Move Info.md",
     "Mechanics/Pokedex.md",
@@ -190,8 +194,6 @@
     "Locations/Locations on Deneb/Deneb.md",
     "Locations/Locations on Deneb/New Basa City.md",
     "Story/Intro Dream sequence dialogue.md",
-    "Story/Why Pokemon.md",
-    "Story/Story Paths.md",
     "Mechanics/Ranger-Style Field Moves.md",
     "Locations/Locations on the Moon/Moon.md",
     "Locations/Locations on Crepitus/Crepitus Space Platform.md",
@@ -199,14 +201,12 @@
     "Locations/Locations on Volos/Volos.md",
     "Locations/Locations on Djet/Djet.md",
     "Locations/Locations on Tiber/Tiber.md",
-    "Locations/Locations on Earth/Earth.md",
     "Characters/Anna.md",
     "Characters/Characters.md",
     "Characters/Dr. Jen.md",
     "Characters/Ran.md",
     "Characters/Seth.md",
     "Characters/Blaise.md",
-    "Mechanics/New Pokemon.md",
     "Untitled.canvas",
     "Locations/Locations on Volos",
     "Locations/Locations on Tiber",

@@ -11,4 +11,4 @@ Glass Graveyard (Mossdeep City Ruins)
 Mossdeep Memorial Centre
 Soot Caverns
 Sootopolis City Ruins
-Ghost Toy Factory
+Ghost Factory
