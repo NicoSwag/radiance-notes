@@ -209,7 +209,7 @@ Icy Wind -> Freeze Field Effect
 Ice Shard -> Freeze Field Effect
 Icicle Spear -> Freeze Field Effect
 Acupressure -> 20 PP
-Baton Pass -> 5 PP, Fly Field Effect
+Baton Pass -> 5 PP, Teleport Field Effect
 Camouflage -> Phase Field Effect
 Defense Curl -> 30 PP
 Double Team -> 5 PP, Phase Field Effect
@@ -252,3 +252,18 @@ Miracle Eye -> Light Field Effect
 Psychic Terrain -> 5 PP, Energize 2 Field Effect
 Psycho Shift -> Energize 2 Field Effect
 Psywave -> Energize Field Effect
+Reflect -> Light Field Effect
+Telekinesis -> Push 1 Field Effect
+Teleport -> Teleport Field Effect
+Luster Purge -> Light Field Effect
+Pysbeam -> Energize 2 Field Effect
+Stored Power -> 5 PP, Energize 1 Field Effect
+Rock Polish -> Climb Field Effect
+Sandstorm -> 5 PP
+Rock Wrecker -> Break 3 Field Effect
+Rock Climb -> Climb Field Effect
+Rock Slide -> Push 2 Field Effect
+Rock Throw -> Push 1 Field Effect
+Accelerock -> Climb Field Effect
+Rollout -> Push 1 Field Effect
+Head Smash -> Shake Field Effect
