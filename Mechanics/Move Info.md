@@ -156,7 +156,7 @@ Sweet Scent -> Grow Field Effect
 Swift -> Stellar Type
 Synthesis -> Grow Field Effect
 Taunt -> 5 PP
-Thief -> 40 BP, 10 PP
+Thief ->  10 PP
 Throat Chop -> 10 PP
 Thunder -> 110 BP, Energize 3 Field Effect
 Thunder Punch -> Break 2 Field Effect
@@ -223,3 +223,17 @@ Super Fang -> Cut 2 Field Effect
 Swagger -> 10 PP
 Swords Dance -> 5 PP
 Work Up -> 20 PP
+Explosion -> Cuts defense in half, Break 3 Field Effect
+Self Destruct -> Cuts defense in half, Break 3 Field Effect
+Hyper Beam -> Break 3 Field Effect
+Giga Impact -> Break 3 Field Effect
+Double Edge -> 10 PP, Shake Field Effect
+Take Down -> 100 Accuracy, Shake Field Effect
+Body Slam -> Shake Field Effect
+Strength -> Hits both opponents, Push 2 Field Effect
+Crush Claw -> Cut 2 Field Effect
+Headbutt -> Shake Field Effect
+Slash -> Cut 3 Field Effect
+Covet -> Fairy Type, 10 PP
+Vise Grip -> Cut 2 Field Effect
+Rapid Spin -> Climb Field Effect
