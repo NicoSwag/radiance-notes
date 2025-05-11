@@ -237,3 +237,18 @@ Slash -> Cut 3 Field Effect
 Covet -> Fairy Type, 10 PP
 Vise Grip -> Cut 2 Field Effect
 Rapid Spin -> Climb Field Effect
+Fury Swipes => High Crit Ratio, Cut 1 Field Effect
+Double Slap -> High Crit Ratio
+Fury Attack -> High Crit Ratio
+Wrap -> Grapple Field Effect
+Rage Fist -> 50 BP, 15 PP, has the Rage Effect, Break 2 Field Effect
+Agility -> Climb Field Effect
+Ally Switch -> Phase Field Effect
+Calm Mind -> 10 PP
+Kinesis -> 100 Accuracy, Push 1 Field Effect
+Light Screen -> Light Field Effect
+Magic Powder -> Grow Field Effect
+Miracle Eye -> Light Field Effect
+Psychic Terrain -> 5 PP, Energize 2 Field Effect
+Psycho Shift -> Energize 2 Field Effect
+Psywave -> Energize Field Effect
