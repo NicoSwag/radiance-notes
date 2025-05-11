@@ -1,4 +1,4 @@
-Acid Armor -> 10 PP, Phase Field Effect
+Acid Armor -> 5 PP, Phase Field Effect
 Acid Spray -> Corrode Field Effect
 Acrobatics -> Climb Field Effect
 Aeroblast -> 80 Accuracy
@@ -208,3 +208,18 @@ Frost_Breath -> Freeze Field Effect
 Icy Wind -> Freeze Field Effect
 Ice Shard -> Freeze Field Effect
 Icicle Spear -> Freeze Field Effect
+Acupressure -> 20 PP
+Baton Pass -> 5 PP, Fly Field Effect
+Camouflage -> Phase Field Effect
+Defense Curl -> 30 PP
+Double Team -> 5 PP, Phase Field Effect
+Harden -> 20 PP
+Helping Hand -> 10 PP
+Minimize -> 5 PP, Phase Field Effect
+Morning Sun -> Grow Field Effect
+Return -> 40 BP, works like fury cutter.
+Sharpen -> 20 PP
+Super Fang -> Cut 2 Field Effect
+Swagger -> 10 PP
+Swords Dance -> 5 PP
+Work Up -> 20 PP
