@@ -267,3 +267,33 @@ Rock Throw -> Push 1 Field Effect
 Accelerock -> Climb Field Effect
 Rollout -> Push 1 Field Effect
 Head Smash -> Shake Field Effect
+Gyro Ball -> Climb Field Effect
+Steel Roller -> Dig Field Effect
+Iron Tail -> 85 Accuracy, Break 2 Field Effect
+Flash Cannon -> Light Field Effect
+Mirror Shot -> 90 Acc.
+Cut -> Steel Type, Cut 3 Field Effect
+Metal Claw -> Cut 2 Field Effect
+Bullet Punch -> Break 1 Field Effect
+Iron Head -> 95 Acc., Shake Field Effect
+Aqua Ring -> Hose 1 Field Effect
+Life Dew -> 5 PP, Grow Field Effect
+Rain Dance -> Hose 3 Field Effect
+Soak -> Hose 1 Field Effect
+Water Spout -> Hose 3 Field Effect
+Water Sport -> Hose 1 Field Effect
+Hydro Cannon -> Hose 3 Field Effect
+Crabhammer -> Break 3 Field Effect
+Hydro Pump -> Hose 3 Field Effect
+Muddy Water -> Surf Field Effect
+Surf -> Surf Field Effect
+Waterfall -> Surf Field Effect
+Dive -> Surf Field Effect
+Brine -> Corrode Field Effect
+Bubble Beam -> Hose 2 FIeld Effect
+Octazooka -> Hose 2 Field Effect
+Water Pulse -> Hose 2 Field Effect
+Aqua Jet -> Surf Field Effect
+Water Gun -> Hose 1 Field Effect
+Whirlpool -> Surf Field Effect
+Bubble -> Hose 1 Field Effect
