@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Move Info.md",
+                "file": "Mechanics/Wild Encounters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Move Info"
+              "title": "Wild Encounters"
             }
           }
         ]
@@ -181,9 +181,12 @@
   },
   "active": "a792553d4cd77218",
   "lastOpenFiles": [
+    "Locations/Locations on Deneb/New Basa City.md",
+    "Mechanics/Wild Encounters.md",
+    "Locations/Locations on Deneb/Deneb.md",
+    "Mechanics/Move Info.md",
     "Mechanics/Battle Engine Modifications.md",
     "Mechanics/Crafting System.md",
-    "Mechanics/Move Info.md",
     "Story/Story Elements.md",
     "Story/Story Paths.md",
     "Story/Why Pokemon.md",
@@ -193,8 +196,6 @@
     "Mechanics/Saving.md",
     "Mechanics/Space Travel.md",
     "Story/Cargo Ships.md",
-    "Locations/Locations on Deneb/Deneb.md",
-    "Locations/Locations on Deneb/New Basa City.md",
     "Story/Intro Dream sequence dialogue.md",
     "Mechanics/Ranger-Style Field Moves.md",
     "Locations/Locations on the Moon/Moon.md",
@@ -206,7 +207,6 @@
     "Characters/Anna.md",
     "Characters/Characters.md",
     "Characters/Dr. Jen.md",
-    "Characters/Ran.md",
     "Untitled.canvas",
     "Locations/Locations on Volos",
     "Locations/Locations on Tiber",
