@@ -116,7 +116,8 @@ Poison Jab
 Vacuum Wave
 Bullet Punch
 Power-Up Punch
-
+Breaking Swipe
+Rage Fist
 
 ***Tier 2***
 Hyper Beam
@@ -132,3 +133,120 @@ Meteor Mash
 Giga Impact
 Rock Wrecker
 Boomburst
+
+
+**Push Field Effect**
+***Tier 1***
+Whirlwind
+Seismic Toss
+Rock Throw
+Kinesis
+Rollout
+Twister
+Arm Thrust
+Silver Wind
+Avalanche
+Ominous Wind
+Telekinesis
+Sky Drop
+
+***Tier 2***
+Strength
+Earthquake
+Rock Slide
+Vital Throw
+Gravity
+Spacial Rend
+Circle Throw
+Bulldoze
+Dragon Tail
+Hurricane
+Stomping Tantrum
+
+
+**Surf Field Effect**
+Surf
+Waterfall
+Splash
+Whirlpool
+Dive
+Muddy Water
+Aqua Jet
+
+**Climb Field Effect**
+Agility
+Pursuit
+Rapid Spin
+Extreme Speed
+Gyro Ball
+Rock Polish
+Rock Climb
+Flame Charge
+Acrobatics
+Accelerock
+Ice Spinner
+Mortal Spin
+Pounce
+Trailblaze
+
+**Energize Field Effect**
+***Tier 1***
+Psybeam
+Extrasensory
+Thunder Shock
+Thunder Wave
+Psywave
+Charge
+Signal Beam
+Shock Wave
+Charge Beam
+Electro Ball
+Stored Power
+Magic Powder
+
+***Tier 2***
+Gamma Burst
+Thunderbolt
+Thunder
+Psychic
+Zap Cannon
+Cosmic Power
+Aura Sphere
+Discharge
+Cosmic Ray
+Electric Terrain
+Psychic Terrain
+Overdrive
+Thunderclap
+
+
+**Dig Field Effect**
+Drill Peck
+Dig
+Sand Tomb
+Pluck
+Mud Shot
+Tractor Beam
+Drill Run
+Shore Up
+Steel Roller
+Mud Slap
+Mud Sport
+
+**Hose Field Effect**
+***Tier 1***
+Water Gun
+Bubble Beam
+Bubble
+Water Sport
+Water Pulse
+Brine
+Aqua Ring
+Soak
+
+***Tier 2***
+Hydro Pump
+Rain Dance
+Hydro Cannon
+Water Spout
+Octazooka
