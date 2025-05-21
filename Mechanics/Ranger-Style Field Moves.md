@@ -12,11 +12,8 @@ Full-body attacks above a certain power, like headbutt, or double edge. Can shak
 **Burn**
 Fire moves. Can burn dry wood and generally flammable-looking objects. Three different tiers.
 
-**Grow**
-Some specific water, grass, and even more "magicky" moves. Can make plants grow for navigation or sidequests. One tier.
-
 **Cut**
-Slashing moves. More than cutting trees, I think it'd be more appropriate to have this cutting other kinds of obstacles such as cobwebs, fences or similar. Three different tiers.
+Slashing moves. More than cutting trees, I think it'd be more appropriate to have this cutting other kinds of obstacles such as cobwebs, fences or similar. Two different tiers.
 
 **Grapple**
 Can create bridges with vines, silk, or similar. One tier.
@@ -25,7 +22,7 @@ Can create bridges with vines, silk, or similar. One tier.
 Moves that would light up the place. Works like flash. One tier.
 
 **Break**
-Generally punching or kicking moves, but stuff like explosion also works. Breaks brittle rocks and walls. Three tiers.
+Generally punching or kicking moves, but stuff like explosion also works. Breaks brittle rocks and walls. Two tiers.
 
 **Push**
 Conceptually a bit iffy, but moves that *move* things rather than *break* them. Would be for strength puzzles, but also bigger boulders to simply push into holes. Two tiers.
@@ -40,19 +37,8 @@ Moves that have to do with speed, climbing, or athleticism. Just works like rock
 Teleporting moves, fly, etc. Teleport to the last healing spot the player has visited. One tier.
 
 **Energize**
-Energy-related moves. Used to give power to contraptions. Three tiers.
+Energy-related moves. Used to give power to contraptions. Two tiers.
 
 **Dig**
 Moves related to digging, terraforming, claws, drills. Digs up buried items: is effectively a replacement for hidden items. Similar idea to Beans in the Mario & Luigi series. One tier.
 
-**Uproot**
-Some flying moves. Uproot some pokemon laying in the ground (e.g. oddish). Two tiers. Not sure how interesting this would be but rangers has it sooo. Two tiers.
-
-**Freeze**
-Ice moves. Freezes cracked floors, preventing them from breaking under the player. Also possibly freezes the bike mud slopes, allowing you to walk up to them (no bike in da game). One tier.
-
-**Phase**
-Some shit like double team, phantom force, etc. Phase through certain grates. Probably very niche, but it is an option. One tier.
-
-**Corrode**
-Poison moves. Loosens stuck mechanism and shit idk. One tier.
