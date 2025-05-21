@@ -4,4 +4,5 @@
 - Necrozma starts heads towards the solar system
 - Cosmon creates a portal to earth to get there before Necrozma. However, the original being splits into two cosmogs and falls on earth.
 - Protagonists as children meet the cosmogs and befriend them. They grow up desiring to go to space, and also occasionally have strange dreams.
-- You end up going on a space mission
+- Telescopes on earth see a strange object that is very slowly approaching the solar system. They build a spaceship capable of some form of FTL travel to go check it out.
+- Protagonists sign up for the mission. As they're going, the cosmogs get on the ship and try
