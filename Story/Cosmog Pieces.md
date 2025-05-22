@@ -1,1 +1,0 @@
-Pieces of the original being that the two [[Cosmog]]s were born from. Gathering Cosmos Pieces lets Cosmog travel to planets further away during [[Space Travel]], and increases the obedience cap.

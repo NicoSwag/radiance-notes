@@ -11,14 +11,14 @@
             "id": "a792553d4cd77218",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Characters/Ultra Beasts.md",
-                "bFile": "Characters/Ultra Beasts.md",
-                "aRef": ""
+                "file": "Story/Cosmic Well.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Ultra Beasts"
+              "icon": "lucide-file",
+              "title": "Cosmic Well"
             }
           }
         ]
@@ -179,11 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a792553d4cd77218",
+  "active": "485e58f8bec74dfd",
   "lastOpenFiles": [
-    "Story/Cosmog Pieces.md",
-    "Characters/Ultra Beasts.md",
+    "Story/Cosmog Piece.md",
+    "Story/Cosmic Well.md",
+    "Story/Cosmic Well.md",
     "Story/Story Acts.md",
+    "Characters/Ultra Beasts.md",
     "Mechanics/Space Travel.md",
     "Characters/Cosmog.md",
     "Mechanics/Ranger-Style Field Moves.md",
@@ -205,8 +207,6 @@
     "Story/Story Elements.md",
     "Locations/Locations on Earth/Earth.md",
     "Locations/Solar System.md",
-    "Mechanics/Pokedex.md",
-    "Mechanics/Saving.md",
     "Untitled.canvas",
     "Locations/Locations on Volos",
     "Locations/Locations on Tiber",

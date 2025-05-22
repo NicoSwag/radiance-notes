@@ -2,6 +2,6 @@ It is said that, when [[Necrozma]] emerged, the will of the universe itself mani
 
 As Necrozma sensed life in the [[Solar System]], and started heading there with the goal of consuming it, the starry being used all its power to open a portal to the same destination, so that it could help its inhabitants to fight the catastrophe. Unfortunately, the massive amount of strength required to open the portal was too much for the being. Its body split into pieces, two of which fell back on [[Earth]], and reverted to a seemingly lifeless state. These were found by scientists back on Earth, and their power utilized to create the strange matter drive. When [[Ari]] and [[Leo]] embarked on their mission, these two pieces awakened as Cosmog, and overcharged the engine propelling them far in the future.
 
-After collecting all the [[Cosmog Pieces]], Cosmog will begin a transformation. You will be required to select one of the two [[Story Paths]], and after completing a quest Cosmog will transform in Solgaleo for the Order path, and Lunala for the Chaos path. Leo will get the opposite of yours.
+After collecting all the [[Cosmog Piece]], Cosmog will begin a transformation. You will be required to select one of the two [[Story Paths]], and after completing a quest Cosmog will transform in Solgaleo for the Order path, and Lunala for the Chaos path. Leo will get the opposite of yours.
 
 Solgaleo/Lunala will be instrumental to breaching the [[Moon]] and facing Necrozma. In the final fight, Leo's legendary will fuse with Necrozma in a desperate attempt to defeat you.

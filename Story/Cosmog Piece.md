@@ -1,0 +1,3 @@
+Pieces of the original being that the two [[Cosmog]]s were born from. Gathering Cosmos Pieces lets Cosmog travel to planets further away during [[Space Travel]], and increases the obedience cap.
+
+Comos Pieces were broken off during its fight with Necrozma. They remained in its orbit, and were brought by the latter to the Solar System. However they have become corrupted, and need to be purified by delving into the [[Cosmic Well]]s.
