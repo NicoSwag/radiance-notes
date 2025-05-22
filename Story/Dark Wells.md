@@ -1,1 +1,0 @@
-Holes in the fabric of spacetime opened up by the Radiance. They look like blackholes, and they spread the radiance even further. Ultra Beasts maybe come from here? Once they get cleared, Cosmog they turn into Dark Stones that can be absorbed by Cosmog to increase its powers.
