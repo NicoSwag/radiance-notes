@@ -2,8 +2,6 @@ Throughout the world, you will encounter obstacles blocking your path. HMs do no
 
 Each move might be assigned a certain category, as well as a strength. A move can interact with obstacles of certain categories and tiers based on its strength. To make things less frustrating, Pokemon will be able to relearn levelup moves at any time (this will not replenish the PP, however, and TMs will need to be retaught). Moves will say what field effect they have in the description.
 
-Wild Pokemon are somewhat weakened by the Radiance, and therefore are not able to use all these field moves from the start. As you gain Cosmog Pieces, the influence of Cosmog on your party grows, and you unlock the usage of new field moves.
-
 The field move categories are as follows:
 
 **Shake**

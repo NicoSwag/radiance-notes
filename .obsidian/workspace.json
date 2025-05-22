@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Some extra notes and revisions.md",
+                "file": "Characters/Ultra Beasts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Some extra notes and revisions"
+              "title": "Ultra Beasts"
             }
           }
         ]
@@ -181,10 +181,20 @@
   },
   "active": "a792553d4cd77218",
   "lastOpenFiles": [
-    "Story/Main Story Pitch.md",
-    "Story/Some extra notes and revisions.md",
-    "Mechanics/Field Move List.md",
+    "Story/Story Acts.md",
+    "Mechanics/Space Travel.md",
+    "Characters/Cosmog.md",
     "Mechanics/Ranger-Style Field Moves.md",
+    "Story/Dark Wells.md",
+    "Characters/Ran.md",
+    "Story/Main Story Pitch.md",
+    "Story/Intro Dream sequence dialogue.md",
+    "Story/Cargo Ships.md",
+    "Story/Ascension.md",
+    "Story/Some extra notes and revisions.md",
+    "Story/Why Pokemon.md",
+    "Story/Story Paths.md",
+    "Mechanics/Field Move List.md",
     "Mechanics/Wild Encounters.md",
     "Locations/Locations on Deneb/New Basa City.md",
     "Locations/Locations on Deneb/Deneb.md",
@@ -192,21 +202,11 @@
     "Mechanics/Battle Engine Modifications.md",
     "Mechanics/Crafting System.md",
     "Story/Story Elements.md",
-    "Story/Story Paths.md",
-    "Story/Why Pokemon.md",
     "Locations/Locations on Earth/Earth.md",
     "Locations/Solar System.md",
     "Mechanics/Pokedex.md",
     "Mechanics/Saving.md",
-    "Mechanics/Space Travel.md",
-    "Story/Cargo Ships.md",
-    "Story/Intro Dream sequence dialogue.md",
     "Locations/Locations on the Moon/Moon.md",
-    "Locations/Locations on Crepitus/Crepitus Space Platform.md",
-    "Locations/Locations on Goetia/Goetia.md",
-    "Locations/Locations on Volos/Volos.md",
-    "Locations/Locations on Djet/Djet.md",
-    "Locations/Locations on Tiber/Tiber.md",
     "Untitled.canvas",
     "Locations/Locations on Volos",
     "Locations/Locations on Tiber",

@@ -4,7 +4,7 @@ Act 2: Volcano: discover what's going on.
 Act 3: Sand and Swamp: meet the main factions.
 Act 4: Cyber, Weird, Space Station and backtracking: find the Cosmog Pieces.
 
-All of the Cosmog Pieces found. End of Part 1.
+All of the Dark Wells found. End of Part 1.
 
 PART 2:
 Act 1: Learn the truth about Cosmog and form a plan
