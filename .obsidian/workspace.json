@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Cosmos Lore Dialogue.md",
+                "file": "Mechanics/TM List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosmos Lore Dialogue"
+              "title": "TM List"
             }
           }
         ]
@@ -181,11 +181,11 @@
   },
   "active": "a792553d4cd77218",
   "lastOpenFiles": [
+    "Story/Cosmos Lore Dialogue.md",
     "Story/Intro Dream sequence dialogue.md",
     "Characters/Cosmog.md",
     "Story/Cosmog Piece.md",
     "Story/Cosmic Well.md",
-    "Story/Cosmos Lore Dialogue.md",
     "Mechanics/Field Move List.md",
     "Mechanics/Ranger-Style Field Moves.md",
     "Mechanics/TM List.md",
