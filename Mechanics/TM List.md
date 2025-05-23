@@ -10,7 +10,7 @@ TM 09 - Trailblaze
 TM 10 - Roost
 TM 11 - Sunny Day
 TM 12 - Taunt
-TM 13 - Ice Punch
+TM 13 - Ice Beam
 TM 14 - Agility
 TM 15 - Ally Switch
 TM 16 - Light Screen
@@ -20,19 +20,19 @@ TM 19 - Giga Drain
 TM 20 - Snowscape
 TM 21 - Haze
 TM 22 - Guiding Star
-TM 23 - Thunder Punch
+TM 23 - Thunderbolt
 TM 24 - Soak
 TM 25 - Gyro Ball
 TM 26 - Curse
 TM 27 - Return
 TM 28 - Dig
 TM 29 - Extrasensory
-TM 30 - Shadow Punch
+TM 30 - Shadow Ball
 TM 31 - Brick Break
 TM 32 - Baton Pass
 TM 33 - Reflect
 TM 34 - Charge Beam
-TM 35 - Fire Punch
+TM 35 - Flamethrower
 TM 36 - Sludge Bomb
 TM 37 - Sandstorm
 TM 38 - Gravity
@@ -51,7 +51,7 @@ TM 50 - Flash
 TM 51 - Misty Terrain
 TM 52 - Eerie Spell
 TM 53 - Fly
-TM 54 - Bulldoze
+TM 54 - Earthquake
 TM 55 - Follow Me
 TM 56 - Thunder Wave
 TM 57 - Fire Spin
@@ -96,7 +96,7 @@ TM 95 - Rapid Spin
 TM 96 - Weather Ball
 TM 97 - False Swipe
 TM 98 - Will-o-Wisp
-TM 99 - Comet Punch
+TM 99 - Tractor Beam
 TM 100 - Infestation
 
 
