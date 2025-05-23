@@ -26,4 +26,25 @@ TM 25 - Gyro Ball
 TM 26 - Curse
 TM 27 - Return
 TM 28 - Dig
-TM 29 - P
+TM 29 - Extrasensory
+TM 30 - Shadow Punch
+TM 31 - Brick Break
+TM 32 - Baton Pass
+TM 33 - Reflect
+TM 34 - Charge Beam
+TM 35 - Fire Punch
+TM 36 - Sludge Bomb
+TM 37 - Sandstorm
+TM 38 - Gravity
+TM 39 - Grass Knot
+TM 40 - Aerial Ace
+TM 41 - Fling
+TM 42 - Facade
+TM 43 - Reversal
+TM 44 - Rest
+TM 45 - Endure
+TM 46 - Electric Terrain
+TM 47 - Entrainment
+TM 48 - Skill Swap
+TM 49 - Snatch
+TM 50 - Flash
