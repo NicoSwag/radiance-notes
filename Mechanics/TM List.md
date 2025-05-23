@@ -48,3 +48,42 @@ TM 47 - Entrainment
 TM 48 - Skill Swap
 TM 49 - Snatch
 TM 50 - Flash
+TM 51 - Misty Terrain
+TM 52 - Eerie Spell
+TM 53 - Fly
+TM 54 - Bulldoze
+TM 55 - Follow Me
+TM 56 - Thunder Wave
+TM 57 - Fire Spin
+TM 58 - Grassy Terrain
+TM 59 - Follow Me
+TM 60 - Alluring Voice
+TM 61 - Frost Breath
+TM 62 - Incinerate
+TM 63 - Aura Sphere
+TM 64 - Psychic Terrain
+TM 65 - Flash Freeze
+TM 66 - Eerie Noise
+TM 67 - Simple Beam
+TM 68 - Leech Life
+TM 69 - Sleep Talk
+TM 70 - Cut
+TM 71 - Dazzling Gleam
+TM 72 - Trick
+TM 73 - Surf
+TM 74 - Substitute
+TM 75 - Venoshock
+TM 76 - Knock Off
+TM 77 - Sword Dance
+TM 78 - Signal Beam
+TM 79 - Low Sweep
+TM 80 - Work Up
+TM 81 - Rock Climb
+TM 82 - Drill Run
+TM 83 - Explosion
+TM 84 - Bug Bite
+TM 85 - Dual Wingbeat
+TM 86 - Smack Down
+TM 87 - Poison Tail
+TM 88 - Strength
+TM 89 - Metal Claw
