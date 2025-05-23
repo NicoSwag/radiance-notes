@@ -87,3 +87,16 @@ TM 86 - Smack Down
 TM 87 - Poison Tail
 TM 88 - Strength
 TM 89 - Metal Claw
+TM 90 - Struggle Bug
+TM 91 - Headbutt
+TM 92 - Iron Tail
+TM 93 - Waterfall
+TM 94 - Rock Smash
+TM 95 - Rapid Spin
+TM 96 - Weather Ball
+TM 97 - False Swipe
+TM 98 - Will-o-Wisp
+TM 99 - Comet Punch
+TM 100 - Infestation
+
+
