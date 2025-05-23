@@ -7,7 +7,7 @@ TM 06 - Bulk Up
 TM 07 - Snowscape
 TM 08 - Baton Pass
 TM 09 - Haze
-TM 10 - Hurricane
+TM 10 - Pluck
 TM 11 - Guiding Star
 TM 12 - Rain Dance
 TM 13 - Soak
@@ -36,7 +36,7 @@ TM 35 - Fire Spin
 TM 36 - Helping Hand
 TM 37 - Dig
 TM 38 - Fire Punch
-TM 39 - Quash
+TM 39 - Alluring Voice
 TM 40 - Brick Break
 TM 41 - Snatch
 TM 42 - Aurora Beam
@@ -50,15 +50,15 @@ TM 49 - Return
 TM 50 - Roar
 TM 51 - Aura Sphere
 TM 52 - Psychic Terrain
-TM 53 -Reflect
+TM 53 - Reflect
 TM 54 - Rest
-TM 55 - Solar Beam
-TM 56 - Magnet Bomb
+TM 55 - Flash Freeze
+TM 56 - Eerie Noise
 TM 57 - Simple Beam
 TM 58 - Leech Life
 TM 59 - Sleep Talk
 TM 60 - Skill Swap
-TM 61 - Pluck
+TM 61 - Eerie Spell
 TM 62 - Cut
 TM 63 - Dazzling Gleam
 TM 64 - Sludge Wave
