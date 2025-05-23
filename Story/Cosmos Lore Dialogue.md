@@ -49,32 +49,33 @@ Those you call Cosmog are the being. But they will never be the being again.
 Those you call Cosmog are us. But they will never be us again.
 We are you, and we are Cosmog. 
 But you are not us, and Cosmog is not us.
-When the two Cosmog fell on Earth, weakened, they hybernated.
-Once they awakened, they were to warn the world of the coming calamity.
-But your scientists found them before it could happened.
-They did not understand, and thought they were dead.
+When the two Cosmog fell on Earth, you found them, weakened.
+Were it not for you, they would have perished.
+You nursed them, and they entered a deep, grateful sleep.
+Once they awakened, they were to warn the world of the calamity.
+But your scientists did not understand.
 They used them to make an engine.
 
 **Ari**
 What happened on the spaceship?
 
 **Mysterious Voice**
-All that happened is what was to happen.
-You found the Cosmog as they awakened.
-You also did not understand.
-You chose to fight them.
-They overcharged the engine, and your craft traveled forward in space-time.
+You found the Cosmog as they finally awakened from their sleep.
+They saw you, on a collision course with the Radiance.
+They tried to save you. You struggled.
+The engine overcharged, and your craft traveled forward in space-time.
 
 **Ari**
-Did we... Cause all of this?
+Is all of this... Our fault?
 
 **Mysterious Voice**
-There is no cause.
-Cosmog came to warn you. You had your chance. You did not listen.
-We cannot see a path where evens go otherwise.
-But now, with you here... And your sister... There may be a way.
+There is no fault.
+Cosmog came to warn humanity. Humanity did not listen.
+But we cannot see a path where events go otherwise.
 A lot has been lost. But not all is lost yet.
-You are they key to everything.
+You and your sister were chosen by the Cosmog.
+By us. 
+And now, you are the key.
 
 **Ari**
 Why us?
@@ -83,7 +84,8 @@ Why us?
 The question is meaningless.
 All that happens is what must happen.
 We have foreseen that it is to be you, and so it is.
-Now, listen closely, for our time is running out.
+Now... 
+Listen closely, for our time is running out.
 
 In this future, you have gathered the pieces of the Cosmog that had broken off.
 They arrived here, now, carried by the Radiance.
