@@ -22,25 +22,39 @@ Grassy Glide
 Expanding Force
 Misty Explosion
 
-Rock Slide
-Body Slam
-Icy Wind
-Sucker Punch
+Heal Bell
 Snore
-Ancient Power
-Ominous Wind
-Bounce
+Role Play
+Pain Split
+Belly Drum
 Heat Wave
 Draco Meteor
-Superpower
-Seed Bomb
+Aeroblast
 Iron Head
-Hyper Voice
-Electroweb
-Heal Bell
-Role Play
-Drain Punch
-Pain Split
-Gunk Shot
+Sucker Punch
+Boomburst
+Spacial Rend
+Cold Spot
 Meteor Beam
-Belly
+Gunk Shot
+Drain Punch
+X-Scissors
+Thunderclap
+Strange Steam
+Petal Dance
+Stomping Tantrum
+Ice Spinner
+Extreme Speed
+Mist Ball
+Ancient Power
+Hydro Pump
+
+
+
+
+
+
+
+
+
+
