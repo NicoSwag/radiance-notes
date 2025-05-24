@@ -1,6 +1,6 @@
-TM 01 - Focus Punch
+TM 01 - Jump Kick
 TM 02 - Dragon Claw
-TM 03 - Bubble Beam
+TM 03 - Water Pulse
 TM 04 - Calm Mind
 TM 05 - Roar
 TM 06 - Toxic
@@ -26,7 +26,7 @@ TM 25 - Gyro Ball
 TM 26 - Curse
 TM 27 - Return
 TM 28 - Dig
-TM 29 - Extrasensory
+TM 29 - Psychic
 TM 30 - Shadow Ball
 TM 31 - Brick Break
 TM 32 - Baton Pass
@@ -56,7 +56,7 @@ TM 55 - Follow Me
 TM 56 - Thunder Wave
 TM 57 - Fire Spin
 TM 58 - Grassy Terrain
-TM 59 - Follow Me
+TM 59 - Breaking Swipe
 TM 60 - Alluring Voice
 TM 61 - Frost Breath
 TM 62 - Incinerate
