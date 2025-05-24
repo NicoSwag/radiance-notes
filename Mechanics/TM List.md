@@ -74,7 +74,7 @@ TM 73 - Surf
 TM 74 - Substitute
 TM 75 - Venoshock
 TM 76 - Knock Off
-TM 77 - Sword Dance
+TM 77 - Swords Dance
 TM 78 - Signal Beam
 TM 79 - Low Sweep
 TM 80 - Work Up
