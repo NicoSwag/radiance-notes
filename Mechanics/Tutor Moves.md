@@ -46,7 +46,6 @@ Stomping Tantrum
 Ice Spinner
 Extreme Speed
 Mist Ball
-Ancient Power
 Hydro Pump
 
 

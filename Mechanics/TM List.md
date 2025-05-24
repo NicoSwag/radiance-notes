@@ -90,7 +90,7 @@ TM 89 - Metal Claw
 TM 90 - Struggle Bug
 TM 91 - Headbutt
 TM 92 - Iron Tail
-TM 93 - Waterfall
+TM 93 - Rock Slide
 TM 94 - Rock Smash
 TM 95 - Rapid Spin
 TM 96 - Weather Ball
