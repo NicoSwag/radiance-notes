@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/TM List.md",
+                "file": "Mechanics/Move Info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TM List"
+              "title": "Move Info"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "a792553d4cd77218",
   "lastOpenFiles": [
-    "Mechanics/Field Move List.md",
+    "Mechanics/Move conceptual grouping.md",
     "Mechanics/TM List.md",
+    "Mechanics/Field Move List.md",
     "Story/Cosmos Lore Dialogue.md",
     "Story/Intro Dream sequence dialogue.md",
     "Characters/Cosmog.md",
@@ -206,7 +207,6 @@
     "Mechanics/Battle Engine Modifications.md",
     "Mechanics/Crafting System.md",
     "Story/Story Elements.md",
-    "Locations/Locations on Earth/Earth.md",
     "Untitled.canvas",
     "Locations/Locations on Volos",
     "Locations/Locations on Tiber",
