@@ -96,7 +96,7 @@ TM 95 - Rapid Spin
 TM 96 - Weather Ball
 TM 97 - False Swipe
 TM 98 - Will-o-Wisp
-TM 99 - Tractor Beam
+TM 99 - Swift
 TM 100 - Infestation
 
 
