@@ -297,3 +297,6 @@ Aqua Jet -> Surf Field Effect
 Water Gun -> Hose 1 Field Effect
 Whirlpool -> Surf Field Effect
 Bubble -> Hose 1 Field Effect
+Grassy Glide -> 10 BP
+Expanding Force -> Power no longer increases on psychic terrain, Energize 2 Field Effect
+Rising Voltage -> Power is only multiplied by 1.5x, Energize 2 Field Effect
