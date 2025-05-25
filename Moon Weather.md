@@ -12,4 +12,4 @@ New ability: nocturnal. Speed doubles under moon.
 New ability: lunatic. Increases attack power and adds the shell bell effect to moves
 New ability: moon's veil. Increases defensive stats under moon
 New move: pure moon. Sets moon weather
-New ability: eclipse: sets moon weather
+New ability: Eclipse: sets moon weather
