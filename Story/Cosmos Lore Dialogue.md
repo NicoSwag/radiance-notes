@@ -124,3 +124,6 @@ Will I ever speak to you again?
 **Mysterious Voice**
 Speak to yourself, and we will listen.
 Speak to the world, and we will listen.
+Speak not, and we will listen, still.
+You will speak to us again.
+For you are always speaking to us, and us to you.
