@@ -1,6 +1,6 @@
-Brainstorming as follows
 Base effect: each turn, dark, ghost and stellar types regain 1/16 of their HP
-Moonlight heals more, synthesis heals less
+Moonlight heals more, synthesis and morning sun heal less
+
 Lunar blessing heals more
 Lunar dance does ??? 
 Cosmic power increases stats more
