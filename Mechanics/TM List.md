@@ -29,7 +29,7 @@ TM 28 - Dig
 TM 29 - Psychic
 TM 30 - Shadow Ball
 TM 31 - Brick Break
-TM 32 - Baton Pass
+TM 32 - Pure Moon
 TM 33 - Reflect
 TM 34 - Charge Beam
 TM 35 - Flamethrower

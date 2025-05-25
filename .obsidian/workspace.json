@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moon Weather.md",
+                "file": "Mechanics/TM List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Moon Weather"
+              "title": "TM List"
             }
           }
         ]
@@ -181,12 +181,13 @@
   },
   "active": "a792553d4cd77218",
   "lastOpenFiles": [
+    "Mechanics/New Pokemon.md",
+    "Mechanics/Pure Moon Weather.md",
+    "Mechanics/TM List.md",
     "Story/Cosmog Piece.md",
-    "Moon Weather.md",
     "Story/Cosmos Lore Dialogue.md",
     "Story/Cosmic Well.md",
     "Mechanics/Tutor Moves.md",
-    "Mechanics/TM List.md",
     "Mechanics/Start here.md",
     "Mechanics/Move Conceptual Grouping.md",
     "Mechanics/Currently Implemented Features.md",
@@ -206,7 +207,6 @@
     "Story/Why Pokemon.md",
     "Story/Story Paths.md",
     "Mechanics/Wild Encounters.md",
-    "Locations/Locations on Deneb/New Basa City.md",
     "Untitled.canvas",
     "Locations/Locations on Volos",
     "Locations/Locations on Tiber",
