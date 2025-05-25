@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Cosmos Lore Dialogue.md",
+                "file": "Moon Weather.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosmos Lore Dialogue"
+              "title": "Moon Weather"
             }
           }
         ]
@@ -182,6 +182,8 @@
   "active": "a792553d4cd77218",
   "lastOpenFiles": [
     "Story/Cosmog Piece.md",
+    "Moon Weather.md",
+    "Story/Cosmos Lore Dialogue.md",
     "Story/Cosmic Well.md",
     "Mechanics/Tutor Moves.md",
     "Mechanics/TM List.md",
@@ -190,7 +192,6 @@
     "Mechanics/Currently Implemented Features.md",
     "Mechanics/Move Info.md",
     "Mechanics/Field Move List.md",
-    "Story/Cosmos Lore Dialogue.md",
     "Story/Intro Dream sequence dialogue.md",
     "Characters/Cosmog.md",
     "Mechanics/Ranger-Style Field Moves.md",
@@ -206,7 +207,6 @@
     "Story/Story Paths.md",
     "Mechanics/Wild Encounters.md",
     "Locations/Locations on Deneb/New Basa City.md",
-    "Locations/Locations on Deneb/Deneb.md",
     "Untitled.canvas",
     "Locations/Locations on Volos",
     "Locations/Locations on Tiber",

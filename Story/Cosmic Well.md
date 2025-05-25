@@ -1,1 +1,0 @@
-Pocket dimension formed by the corruption of Cosmog Pieces. It's a mirror of the surrounding world. You need to solve a puzzle and defeat the boss of the area. You cannot catch any pokemon here.
