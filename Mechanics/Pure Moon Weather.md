@@ -10,8 +10,7 @@ Weather ball becomes dark type, doubles in power
 New ability: nocturnal. Speed doubles under moon.
 Blood moon is now a solar beam clone.
 New ability: lunatic. Increases attack and special attack by 1.3x, and moves heal for 1/8 of the damage dealt. However, loses 1/8 hp at the end of the turn.
-
-TO DO:
-Lunar blessing is weaker by default, full effect under moon
-
 New ability: moon's veil. Increases defensive stats under moon
+Lunar blessing only heals by default, full effect under moo
+
+
