@@ -8,9 +8,10 @@ Surf power increased by 50%
 Hex and Venoshock always do more damage
 Weather ball becomes dark type, doubles in power
 New ability: nocturnal. Speed doubles under moon.
+Blood moon is now a solar beam clone.
+New ability: lunatic. Increases attack and special attack by 1.3x, and moves heal for 1/8 of the damage dealt. However, loses 1/8 hp at the end of the turn.
 
 TO DO:
-Blood moon can be used twice in a row.
 Lunar blessing is weaker by default, full effect under moon
-New ability: lunatic. Increases attack power and adds the shell bell effect to moves
+
 New ability: moon's veil. Increases defensive stats under moon
