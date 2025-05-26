@@ -10,7 +10,7 @@ Weather ball becomes dark type, doubles in power
 New ability: nocturnal. Speed doubles under moon.
 
 TO DO:
-Blood moon by default is a 70 BP move; under moon it becomes a 140 BP move with a charging turn that increases sp.atk. Kinda insane with power herb maybe? Figure that out
+Blood moon can be used twice in a row.
 Lunar blessing is weaker by default, full effect under moon
 New ability: lunatic. Increases attack power and adds the shell bell effect to moves
 New ability: moon's veil. Increases defensive stats under moon
