@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Pure Moon Weather.md",
+                "file": "Mechanics/Tutor Moves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pure Moon Weather"
+              "title": "Tutor Moves"
             }
           }
         ]
@@ -181,14 +181,14 @@
   },
   "active": "a792553d4cd77218",
   "lastOpenFiles": [
-    "Mechanics/Move Info.md",
-    "Mechanics/Pure Moon Weather.md",
     "Mechanics/TM List.md",
+    "Mechanics/Tutor Moves.md",
+    "Mechanics/Pure Moon Weather.md",
+    "Mechanics/Move Info.md",
     "Mechanics/New Pokemon.md",
     "Story/Cosmog Piece.md",
     "Story/Cosmos Lore Dialogue.md",
     "Story/Cosmic Well.md",
-    "Mechanics/Tutor Moves.md",
     "Mechanics/Start here.md",
     "Mechanics/Move Conceptual Grouping.md",
     "Mechanics/Currently Implemented Features.md",
