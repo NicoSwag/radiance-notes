@@ -37,7 +37,7 @@ Spacial Rend
 Cold Spot
 Meteor Beam
 Gunk Shot
-Drain Punch
+Superpower
 X-Scissors
 Thunderclap
 Strange Steam
