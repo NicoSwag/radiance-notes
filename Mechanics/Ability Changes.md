@@ -1,0 +1,1 @@
+Shell armor - Protects from critical hits, and from defense drops (including from superpower). Don't worry, shell smash does not exist.
