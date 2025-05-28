@@ -41,7 +41,7 @@ Superpower
 X-Scissors
 Thunderclap
 Strange Steam
-Petal Dance
+Wood Hammer
 Stomping Tantrum
 Ice Spinner
 Extreme Speed

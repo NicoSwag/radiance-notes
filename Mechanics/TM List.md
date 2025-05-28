@@ -64,7 +64,7 @@ TM 63 - Aura Sphere
 TM 64 - Psychic Terrain
 TM 65 - Flash Freeze
 TM 66 - Eerie Noise
-TM 67 - Simple Beam
+TM 67 - Hone Claws
 TM 68 - Leech Life
 TM 69 - Sleep Talk
 TM 70 - Cut
