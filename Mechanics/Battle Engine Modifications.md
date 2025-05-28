@@ -7,7 +7,9 @@ To deal with the semi open-world nature of the game, several changes have been m
 - Explosion works like pre gen 5.
 - After a Pokemon faints, sending the next one happens immediately, and not at the end of the turn. Basically gen 3 mechanics.
 - Supereffective move now only do 1.5x damage. Resisted moves aren't changed.
-- STAB is 1.3, not 1.5.- Freeze is now frostbite
+- STAB is 1.3, not 1.5.
+- Stat changes can only go to +3 and -3.
+-  Freeze is now frostbite
 - Sleeping Pokemon wake up when hit (to be implemented)
 - Many moves have been cut, changed or added (to be implemented).
 - Pokemon only gain experience at the end of a battle. In order to simplify the handling of the EXP distribution, all members of the party gain EXP at the end of the battle.[^1]
