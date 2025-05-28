@@ -301,3 +301,4 @@ Grassy Glide -> 10 BP
 Expanding Force -> Power no longer increases on psychic terrain, Energize 2 Field Effect
 Rising Voltage -> Power is only multiplied by 1.5x, Energize 2 Field Effect
 Blood Moon -> Stellar Type, 120 BP, two turn charging unless under pure moon
+Energy Ball -> Energize 2 Field Effect

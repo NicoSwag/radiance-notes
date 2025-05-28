@@ -44,7 +44,7 @@ TM 43 - Reversal
 TM 44 - Rest
 TM 45 - Endure
 TM 46 - Electric Terrain
-TM 47 - Entrainment
+TM 47 - Energy Ball
 TM 48 - Skill Swap
 TM 49 - Snatch
 TM 50 - Flash
